@@ -8,3 +8,13 @@ or waste disposal - its task is to plan and maintain basic infrastructure in the
 Possibilities are to be shown of how to obtain a 3D model of the subsoil with the given 2D fresh and sewage water system plans. Which data model adaptations are necessary to perform this transformation? Provide an MVP given the LIDAR surface profile, the geo information about the pipes and the information about the layout of the pipe system. Infrastructure data was provided by the civil engineering office of lucerne.
 
 ## Data
+The following data from a test perimeter on the Frutt-/Industriestrasse is provided as a basis:
+- Point cloud digital terrain model of the 2018 LIDAR flight (start point for Z-axis)
+- Sewage data (sewage node, cover, husbandry, husbandry point) (y- and x-axis in 2 dimensional space)
+- Water data (fitting, hydrant, pipe, pipe point, pipe section) (y- and x-axis in 2 dimensional space)
+- Detailed information about the layers of the system (calculate the pipe position Z from it)
+
+## Recommended Knowledge of tools
+- GIS Program (QGIS, ARCGIS, ..)
+- 3 modeling (Blender, ..)
+- LIDAR Reader
