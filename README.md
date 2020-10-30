@@ -8,12 +8,13 @@ The civil engineering office is responsible for sustainable infrastructure manag
 
 ## Data
 The following data from a test perimeter on the Frutt-/Industriestrasse is provided as a basis:
-- Point cloud digital terrain model of the 2018 LIDAR flight _(start point for Z-axis_
-- Sewage data (sewage node, cover, husbandry, husbandry point) _(y- and x-axis in 2 dimensional space)_
-- Water data (fitting, hydrant, pipe, pipe point, pipe section) _(y- and x-axis in 2 dimensional space)_
-- Detailed information about the layers of the system _(calculate the pipe position Z from it)_
+* Point cloud digital terrain model of the 2018 LIDAR flight _(start point for Z-axis_
+* Sewage data (sewage node, cover, husbandry, husbandry point) _(y- and x-axis in 2 dimensional space)_
+* Water data (fitting, hydrant, pipe, pipe point, pipe section) _(y- and x-axis in 2 dimensional space)_
+* Detailed information about the layers of the system _(calculate the pipe position Z from it)_
 
 ## Recommended Knowledge 
+
 - GIS Program _(QGIS, ARCGIS, ..)_
 - 3 modeling _(Blender, ..)_
 - LIDAR Reader _(use http://lidarview.com for preview of data)_
