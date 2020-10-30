@@ -1,0 +1,9561 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "WIS_WAS.WAS_ROHRLEITUNGSTEIL",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128682894, 47.0415879146 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105955037, 47.0419023488 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106024156, 47.041904986 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106047328, 47.0419058679 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110526283, 47.0414742762 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120069824, 47.0406443211 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119984238, 47.040652887 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100420115, 47.0403043854 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3096875646, 47.0401524772 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119895446, 47.0406490325 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119905919, 47.040647891 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100454149, 47.0403036111 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.313099039, 47.0413416126 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129947393, 47.0414516942 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.503,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125461218, 47.041932514 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.703,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100501583, 47.0403025317 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.75
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101213732, 47.0404551336 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103407904, 47.0407430804 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.313204616, 47.0412702022 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.06,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130037719, 47.041442342 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.548,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3127935542, 47.041665171 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.982,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106070104, 47.0419067412 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106092747, 47.0419076056 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106001117, 47.0419041129 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105978077, 47.0419032308 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105932129, 47.0419014756 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105886182, 47.0418997204 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132043093, 47.0412295895 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3131328307, 47.0413058839 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130897521, 47.0413514328 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.313046601, 47.0413970568 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310135822, 47.0404843225 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101061074, 47.0404231173 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100369604, 47.0403053899 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103666275, 47.0407952924 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3096809427, 47.0401272444 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.31299741, 47.0414492361 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.53,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129548196, 47.0414947992 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.31,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129127086, 47.0415407094 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.25,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128230722, 47.0416354137 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.1,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3127759981, 47.0416844472 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.98,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312733529, 47.0417302072 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.87,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3126909143, 47.0417759233 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.77,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3126483246, 47.0418215582 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.71,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3126064465, 47.0418672597 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.66,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125640819, 47.0419129918 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.59,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125212384, 47.0419584127 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.53,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123751655, 47.0421140145 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123777747, 47.0421110081 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125006965, 47.0419802035 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128659347, 47.0415903884 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128702294, 47.0415858399 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100482861, 47.0403029579 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129354839, 47.0408274656 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.55,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3096858225, 47.0401458372 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105555349, 47.0423693066 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.737,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106126253, 47.0424068793 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.731,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105129958, 47.0423420762 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.808,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.3
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105143098, 47.0423435775 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.809,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.3
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106038501, 47.0424288682 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.834,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106043362, 47.0424280099 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.834,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106222329, 47.0424126265 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.843,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106283349, 47.0424172399 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.87,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106700713, 47.0424444673 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.638,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105235419, 47.0423488957 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.827,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3115050499, 47.0410972873 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.992,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3115469369, 47.0410512983 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.04,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3115900273, 47.0410056869 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.092,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3116331759, 47.0409604169 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.179,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3116761895, 47.0409149411 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.213,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3117188333, 47.040869387 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.256,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119910077, 47.0405748078 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.898,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119899322, 47.0405782613 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.881,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.31197381, 47.0405958893 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.844,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119310601, 47.0406413633 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.683,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118888268, 47.0406870492 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.625,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118463308, 47.0407327731 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.58,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118039104, 47.0407782985 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.459,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3117613111, 47.0408233395 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.333,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119402603, 47.040631794 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.894,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3117746391, 47.0408086653 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.595,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3114617932, 47.0411423961 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.907,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3114183237, 47.0411881812 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.862,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3113759787, 47.0412335259 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.69,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.31133308, 47.0412788119 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.657,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112899054, 47.0413241359 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.564,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112475034, 47.0413700388 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.443,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.3
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112046058, 47.0414154056 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.365,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112144273, 47.041405184 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112372463, 47.0414044438 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3113674129, 47.0412424697 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3113893058, 47.0412430499 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.944,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3113904191, 47.0412435362 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.93,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3113908065, 47.0412438931 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.936,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118209851, 47.0408337433 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.526,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118264251, 47.0408348804 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.546,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118284966, 47.0408344149 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.556,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311978997, 47.0405442962 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.006,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.25
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119757116, 47.0405356675 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.026,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120159938, 47.0404905811 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.958,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120254403, 47.0404791658 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120278477, 47.0404767007 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.848,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3116345818, 47.0406189972 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.514,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3116356886, 47.0406182781 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.528,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0.7
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311853927, 47.0407249072 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.764,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119769451, 47.0405322218 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119797892, 47.0405290967 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119857355, 47.0405225386 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119886192, 47.0405194222 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3116350246, 47.0406187149 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123086936, 47.0421856573 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.569,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123512023, 47.0421398612 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.579,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123564084, 47.0421339025 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.564,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123799462, 47.0421085987 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.507,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123340389, 47.0421582168 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.723,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123270846, 47.0421489503 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.764,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123265917, 47.0421485763 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.765,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312325862, 47.042148213 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.79,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111627832, 47.0414605304 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.394,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111594759, 47.0414634971 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.559,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111574374, 47.0414651858 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.513,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111562376, 47.0414666612 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.528,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111542618, 47.0414697797 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.312,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111400719, 47.0414873119 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.044,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111742718, 47.0414727131 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.383,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111768701, 47.0414738898 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.29,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112427978, 47.0415038657 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.278,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111198925, 47.0415119962 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.072,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111068988, 47.0414995101 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.33,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111014454, 47.041533159 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.96,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311099053, 47.041535741 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.916,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311083328, 47.0415535548 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.655,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311040802, 47.0415999442 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.72,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109980472, 47.04164522 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.752,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109963316, 47.041655434 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.662,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110281032, 47.041621783 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.638,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110760979, 47.0415726263 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.555,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111100497, 47.0415354775 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.713,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109550594, 47.0416907314 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.817,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109604309, 47.041691698 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.787,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109292373, 47.04172449 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.728,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109121232, 47.0417361884 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.739,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310869269, 47.0417818336 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.887,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310857833, 47.0418004064 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.87,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108264372, 47.0418272448 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.955,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107838339, 47.0418729511 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.029,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107628395, 47.0418766638 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.023,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106143593, 47.041909546 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106274546, 47.04191452 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111646708, 47.0414584651 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111669355, 47.041456118 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111523246, 47.0414728439 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111492481, 47.0414762496 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110720162, 47.0414826476 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110710886, 47.0414822499 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111598105, 47.0414662742 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111652294, 47.0414685359 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111703441, 47.0414707099 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105355121, 47.0421024341 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105153658, 47.0421380926 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310510927, 47.0421426961 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107679306, 47.0418757616 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107812883, 47.0418734022 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107787428, 47.0418738534 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107653851, 47.0418762127 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105400203, 47.0421385351 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310532508, 47.0421353987 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310531607, 47.0421350187 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3131731683, 47.0411847768 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.295,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.3
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3131871498, 47.0411908323 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.306,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132106282, 47.0412006835 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.326,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132123392, 47.0412015161 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.35,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.25
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101181954, 47.0402205981 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.415,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310126121, 47.0402200342 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.403,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101315378, 47.0402197502 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.395,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101358073, 47.040219313 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.394,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101419306, 47.0402187807 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.387,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102552411, 47.0402106971 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.354,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102206847, 47.0402130374 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.381,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105698101, 47.0401877356 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.349,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104912887, 47.0401932165 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.368,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104127999, 47.040199084 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.373,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107231052, 47.0401769281 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.559,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.05
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107314134, 47.0401764242 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.565,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107314986, 47.0401751911 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.451,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.05
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107294771, 47.0401625407 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.518,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107281615, 47.0401763229 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.332,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.05
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107901849, 47.0401718398 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.751,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107976646, 47.0401713692 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.761,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107974163, 47.0401690502 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.507,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107960303, 47.0401590666 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.473,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108058698, 47.0401702004 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.56,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310648653, 47.0401817935 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.279,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110188409, 47.0400833852 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 443.002,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110194532, 47.0400862411 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.976,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110221143, 47.0400864278 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 443.013,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110386748, 47.0400868507 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.92,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110414684, 47.0400870904 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.859,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110414216, 47.0400890697 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.819,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110386853, 47.0401190548 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.853,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311030631, 47.0401545946 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.631,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110306904, 47.0401380153 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.84,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110310035, 47.0401362318 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.828,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110320572, 47.0401354861 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.847,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110359602, 47.0401327398 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.842,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108637041, 47.0401670533 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108710342, 47.0401670966 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.561,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0.9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108690217, 47.0401533846 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.487,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310868865, 47.0401526482 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.512,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108688074, 47.0401523428 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.506,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108703595, 47.040164448 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.439,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311138538, 47.0401621944 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.639,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111370103, 47.0401621161 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.593,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111339902, 47.0401616982 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.609,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110554708, 47.040160019 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.611,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110350177, 47.0401597517 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.621,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110306583, 47.0401595149 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.547,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.05
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311030726, 47.0401580122 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.563,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110229063, 47.0401594209 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.439,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110215682, 47.040159674 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.325,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311019924, 47.0401597134 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.202,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110178842, 47.0401597019 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.248,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.45
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108846024, 47.0401655722 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.554,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109681754, 47.0401600077 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.327,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.35
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109654302, 47.0401603164 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.371,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.3
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109642353, 47.0401604694 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.428,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.25
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3113743303, 47.0401986245 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.567,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311371939, 47.040198031 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.542,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3113700363, 47.0401975507 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.571,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112931176, 47.0401858744 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.569,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112157107, 47.0401741208 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.625,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3115509934, 47.0402596837 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.797,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.6
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3115492204, 47.0402590855 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.77,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.6
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3115479766, 47.0402586632 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.823,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.6
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3115197541, 47.0402467247 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.326,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3115181389, 47.0402461163 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.321,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311516774, 47.040245533 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.35,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3114455432, 47.0402219304 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.472,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3116184907, 47.0402883522 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.682,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3116866451, 47.0403169616 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.534,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119029363, 47.0404120362 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.097,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119031328, 47.0404118188 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.297,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118961845, 47.0404089625 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.308,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119029352, 47.0404017822 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.385,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.35
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118942256, 47.0404083432 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.16,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118853741, 47.0404045694 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.176,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118185396, 47.0403754103 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.239,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.6
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3117510955, 47.040345986 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.217,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.6
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119617489, 47.0404369663 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.933,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.6
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121122352, 47.0405009405 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.68,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121047419, 47.0404975063 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.855,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120296072, 47.0404740426 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.748,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121383833, 47.0405123458 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.698,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120708739, 47.0404829671 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.731,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120498804, 47.0404737624 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.706,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120454002, 47.0404717635 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.698,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120415872, 47.0404703352 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.696,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120373207, 47.0404685326 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.711,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120355056, 47.0404677728 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.697,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120335951, 47.0404668158 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.72,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120294851, 47.040464922 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.742,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3122711597, 47.0405707513 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.748,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3122046758, 47.0405413289 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.754,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124775177, 47.0406633826 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.668,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.18
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124836098, 47.0406660979 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.675,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129139062, 47.0408515537 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.27,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129142731, 47.0408516993 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.496,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129169607, 47.0408487463 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.494,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129091956, 47.0408494711 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.734,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129072504, 47.0408488023 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.822,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312933885, 47.0408302844 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.924,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129349691, 47.0408289808 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.911,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3127331301, 47.0407429187 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.65,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312715056, 47.0407626847 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.533,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3127136102, 47.0407635953 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.517,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3127074974, 47.0407615458 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.521,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312476797, 47.0406630822 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.486,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130271261, 47.0409011522 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.242,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130300335, 47.0409019126 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.153,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130361349, 47.0409048797 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.152,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133181119, 47.0410288048 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.805,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133111869, 47.0410261769 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.76,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133111869, 47.0410261769 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.813,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133080474, 47.0410248965 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.792,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128095669, 47.0408065202 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.257,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128049036, 47.0408045947 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.26,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.313216402, 47.0409502477 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.324,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132154704, 47.0409512173 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.3,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132147434, 47.0409574748 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.463,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132185456, 47.0409525882 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.417,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132128386, 47.0409568686 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.581,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132113889, 47.0409559261 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.623,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132180815, 47.0409531764 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.417,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120340563, 47.0404692771 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312411159, 47.0406330958 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132175017, 47.0409539365 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0.85
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103335319, 47.0402047863 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110384373, 47.0401321273 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110384606, 47.040130328 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133135968, 47.0410270941 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112806891, 47.041521245 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.282,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311347548, 47.0415502153 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.173,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3114142675, 47.0415795105 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.091,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3114813242, 47.0416084972 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.034,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3115486032, 47.041637233 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.933,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3116147866, 47.0416668893 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.867,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112794178, 47.0415191317 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.419,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112709661, 47.0415278137 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.416,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112687136, 47.0415268593 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.266,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112649526, 47.0415253946 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.283,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3117665157, 47.0417342638 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.571,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3117478411, 47.0417260669 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.629,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3116810285, 47.0416967367 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.751,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118147163, 47.0417551988 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.502,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118463894, 47.041768883 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.433,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118485149, 47.0417765851 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.599,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118814906, 47.0417837916 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.401,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3117735578, 47.0418516295 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3117658175, 47.0418482341 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3117649638, 47.0418491401 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124154866, 47.0419953079 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.895,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121562259, 47.0418992649 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.152,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123538455, 47.0419870243 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.629,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3122963733, 47.0419624179 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.844,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3122291605, 47.0419335948 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.007,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312162041, 47.0419048429 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.064,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121572193, 47.0419028915 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.087,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3122672288, 47.0419472573 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.802,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123743942, 47.041998778 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.915,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312392131, 47.0420067481 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.88,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124053016, 47.0419912834 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.98,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3116836635, 47.0416945037 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.77,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119489213, 47.0418130901 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.339,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120160967, 47.0418420576 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.232,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120831541, 47.0418710439 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.171,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312125317, 47.0418856468 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.214,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120144493, 47.0418378602 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.263,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119038252, 47.0417888572 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.492,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121544419, 47.0419017945 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.066,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121500115, 47.0418998699 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.073,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121444863, 47.0418976315 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.244,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121379959, 47.0418949418 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.264,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120937422, 47.0418755871 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.307,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120873457, 47.0418727662 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.301,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120483059, 47.0418561677 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.322,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120549282, 47.0418589527 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.328,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120305331, 47.0418485685 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.336,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120242753, 47.0418457015 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.349,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119775152, 47.0418251515 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.436,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119712797, 47.0418224463 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.436,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119384031, 47.0418086354 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.49,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119325165, 47.0418060993 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.505,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125314084, 47.0420665431 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.464,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3126392643, 47.042116799 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.188,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.3
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125300225, 47.042067903 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.573,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125128285, 47.0420601357 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.719,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.05
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125117372, 47.0420593884 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.807,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125061888, 47.0420532147 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.837,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124630871, 47.0420141152 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.954,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124669815, 47.0420159287 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.946,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124692527, 47.0420169738 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.936,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0.92
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124712996, 47.0420182266 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.941,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124840411, 47.0420297429 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.918,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125988264, 47.0420950137 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.25
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3126661127, 47.0421234762 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121120107, 47.0404895718 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.35
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106053202, 47.0421687231 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.445,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105989167, 47.0421657942 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.438,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0.8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105956055, 47.0421636694 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.115,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105904769, 47.0421614594 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.105,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130745467, 47.0414878783 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.376,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130770318, 47.0414853317 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.471,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3131642659, 47.0415234292 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.18,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0.7
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3131615166, 47.0415259059 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.299,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0.6
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102793257, 47.0405657225 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.513,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102791323, 47.0405651573 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.519,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102741481, 47.040553195 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.686,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0.85
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102740462, 47.0405525931 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.948,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0.55
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102736313, 47.0405513548 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.958,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102749678, 47.0405510029 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.953,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0.55
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104945321, 47.0423347141 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.791,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104992235, 47.0423343187 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.794,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105091801, 47.0423331996 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.81,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105113736, 47.042332949 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.789,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105108104, 47.0423298678 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.808,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105118363, 47.0423355093 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.806,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105127173, 47.0423403242 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.81,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103689428, 47.0423438087 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103087294, 47.0423132491 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.787,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103017376, 47.042309749 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.789,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102926176, 47.0423048527 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.817,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102890481, 47.0423030267 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.799,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.55
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102762691, 47.042296467 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.797,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102747007, 47.0422955073 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.77,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.55
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102730565, 47.0422947372 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.722,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102433782, 47.0422790943 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.597,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102419715, 47.0422783674 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.526,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.45
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102405912, 47.0422776492 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.551,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101982924, 47.0422538532 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.43,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.25
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101974427, 47.0422525823 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.441,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101937669, 47.0422466461 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.378,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101645038, 47.04219661 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 436.942,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.25
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101353808, 47.0421470945 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 436.525,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.12
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101049878, 47.0420971659 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 436.347,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100448807, 47.0419969617 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 436.272,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.25
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100217264, 47.0419584385 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 436.22,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310020757, 47.0419570875 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 436.19,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.3
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100187451, 47.0419563651 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 436.219,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3098521214, 47.041946529 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 436.139,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3099321431, 47.0419303595 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 436.109,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3099276279, 47.0419302588 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 436.127,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3099297504, 47.041929685 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 436.107,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3099750434, 47.0419434013 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 436.161,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.25
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104155656, 47.0423405312 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103709012, 47.0423436679 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103673637, 47.0423430021 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102959364, 47.0423066356 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102003907, 47.0422550337 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100746944, 47.0420468857 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312498128, 47.0406412945 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.87,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125091193, 47.0406302092 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.884,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132785697, 47.0413032913 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.662,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132772048, 47.041302708 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.675,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132766348, 47.0413024514 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.688,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132750971, 47.0413017615 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.704,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3090058725, 47.0400268334 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 443.786,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3090081081, 47.0400269082 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 443.803,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3090100461, 47.0400269727 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 443.716,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3090875583, 47.040039425 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 443.653,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0.9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.309144676, 47.0400490526 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 443.479,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3091466167, 47.0400494427 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 443.44,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3091485505, 47.0400502197 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 443.468,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3092136774, 47.0400723857 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 443.196,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3095696276, 47.0401895071 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.632,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3095712943, 47.0401900432 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.624,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3095737294, 47.0401908973 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.619,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3096146834, 47.0401984307 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.662,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3096751706, 47.0402100403 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.702,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3096762673, 47.0402082095 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.751,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.18
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3096729532, 47.0402075177 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.636,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3096657441, 47.0402060134 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.726,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3096905168, 47.040212986 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.677,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3097666593, 47.0402279346 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.683,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3097687857, 47.0402284133 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.643,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.25
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3097708417, 47.0402286135 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.621,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3098265248, 47.0402315554 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.648,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100645336, 47.040223821 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.418,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100223976, 47.0402269654 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.503,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100166674, 47.0402273957 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.504,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100198428, 47.0402292697 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.47,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100193482, 47.0402271775 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.471,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3099880964, 47.0402296276 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.565,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3099092698, 47.0402357671 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.653,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3099072453, 47.0402358904 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.623,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3099049532, 47.0402357369 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.671,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100724762, 47.0402233298 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.406,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100723625, 47.0402226497 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.65,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100720196, 47.0402207426 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.614,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100716472, 47.0402186306 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.627,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100645915, 47.0402192859 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.607,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100555257, 47.0402201292 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.574,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3096849674, 47.0401589017 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.637,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3096886499, 47.0401595934 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.667,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3096905764, 47.0401599206 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.673,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3096925038, 47.0401594922 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.684,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3096921523, 47.0401589929 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.681,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100530882, 47.0401842914 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.72,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0.9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310059567, 47.0401837654 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 443.079,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0.55
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100592746, 47.040181481 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 443.094,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100589038, 47.04017858 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 443.107,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100212795, 47.0402356556 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100200652, 47.0402303232 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104141487, 47.0408942005 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310397325, 47.0408601081 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100226569, 47.040242121 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.453,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100229718, 47.0402431954 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.29,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100231723, 47.0402438739 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.119,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100234927, 47.0402449663 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.011,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100240283, 47.0402461082 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.029,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100379038, 47.0402763009 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.846,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.25
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100467497, 47.0402955338 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.778,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100223478, 47.0402406697 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100496588, 47.0403026452 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.45
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3092848144, 47.0400957925 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3093556838, 47.04011957 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3094265545, 47.0401433467 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3094978259, 47.0401665868 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133861687, 47.041051315 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.907,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133925091, 47.0410518226 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.893,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133980049, 47.041052262 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.911,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3134025405, 47.0410526494 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.838,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3135391302, 47.041071577 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.587,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3134050959, 47.0410528863 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.846,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3134083208, 47.0410531855 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.814,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3134133184, 47.0410537376 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.769,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3134619281, 47.0410602191 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.3
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.31054566, 47.042106612 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105220942, 47.042131052 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312827461, 47.0415704143 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3131768554, 47.041258723 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133311709, 47.0410347774 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132253482, 47.0412068413 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121798546, 47.0410009938 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102656256, 47.0405874879 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103207302, 47.0407030225 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3099504957, 47.0408159116 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102849798, 47.0405816647 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124524037, 47.0420311981 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105909089, 47.0419005936 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104800699, 47.0421743609 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105278838, 47.0421334548 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128345637, 47.0415629478 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130318382, 47.0413154436 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130404232, 47.0413141548 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133329442, 47.0410943146 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133191839, 47.0410493606 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311859266, 47.0408298 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133658115, 47.0410488794 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121828842, 47.0409979483 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102703659, 47.0405860576 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102824787, 47.0405726971 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102602204, 47.0405795768 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101658741, 47.0405441038 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3097980007, 47.0403472993 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310376961, 47.040805244 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104498894, 47.0409689315 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104530618, 47.0409714261 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103021514, 47.0407079761 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310867988, 47.0401448377 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100880522, 47.0401049639 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100937405, 47.040104381 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100928029, 47.0401001242 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104990202, 47.0418667034 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125153869, 47.0419182831 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 438.032,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125127788, 47.0419173134 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 437.897,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125430823, 47.0419309179 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 437.931,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125422338, 47.0419305286 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119273344, 47.0403793145 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 441.71,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118736235, 47.0403504155 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 441.721,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129372501, 47.0408123036 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 440.674,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3127492551, 47.0407375875 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 440.832,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3127381653, 47.0407385895 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 440.728,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105415135, 47.0421049073 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106015015, 47.04243091 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130476108, 47.0413175543 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312201979, 47.0410020579 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108671074, 47.0401368113 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312756191, 47.0407303922 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 440.911,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107936918, 47.040141489 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103724469, 47.0408076351 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108639866, 47.0401083461 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130529682, 47.0413200773 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132481585, 47.0411821636 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101936037, 47.0405548769 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100765551, 47.0403582883 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102673302, 47.0405911631 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103186223, 47.0406988195 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3099942955, 47.040805801 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310054517, 47.0403114753 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.75
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118561782, 47.0417728296 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107203326, 47.0419226392 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106758809, 47.0419687913 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105898812, 47.0420592203 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106327924, 47.0420138086 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105496697, 47.0421023266 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105415135, 47.0421049073 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105423599, 47.0421100283 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105313212, 47.0421214826 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105194284, 47.0421338249 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105243719, 47.0421286958 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105259118, 47.0421270919 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104998872, 47.0422755546 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104893255, 47.0422216163 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104805859, 47.0421769657 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104822567, 47.0421720774 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105296461, 47.042134197 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105261347, 47.0421327125 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3114168586, 47.041255857 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3115094741, 47.0413069495 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3114976695, 47.0413012281 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3116970678, 47.0413933739 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3117049671, 47.0413968491 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118223096, 47.0414512075 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118166379, 47.0414487769 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124829684, 47.0419049015 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312858443, 47.0415836717 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128312111, 47.0415720139 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128242407, 47.0415690265 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128330112, 47.0415645789 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128288581, 47.0415689374 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128171316, 47.0415591405 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128111623, 47.0415586372 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3131747331, 47.0412609979 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3131789936, 47.0412564542 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129620015, 47.0412814324 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3131796707, 47.0412598872 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.313328455, 47.0410376946 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133257133, 47.0410406391 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132229945, 47.041209369 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132280117, 47.0412039425 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130996552, 47.0411447937 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.313221148, 47.0412050742 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132140991, 47.0412021144 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132882219, 47.0411414503 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133315473, 47.0410974197 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.313332495, 47.041090171 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133262791, 47.0410729199 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133190568, 47.0410528608 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.313320642, 47.0410459761 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118356639, 47.0408333438 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133366161, 47.0410370388 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.313362133, 47.04104763 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133695915, 47.0410498941 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121820021, 47.041001958 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121779589, 47.0410001357 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121819521, 47.0409988909 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120197946, 47.0409285918 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120874716, 47.0409593365 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121459582, 47.0409857074 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125726716, 47.0410402926 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125482432, 47.0410561219 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312544724, 47.0410581907 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123620348, 47.040677413 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124216546, 47.0407030734 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124804794, 47.0407283981 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312537144, 47.0407527766 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125967504, 47.040778419 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312635724, 47.040795187 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107267509, 47.0401405403 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.05
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310718706, 47.0400819502 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107867389, 47.0400893675 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.05
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107950106, 47.0401513832 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102806715, 47.0405829568 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102880308, 47.040580742 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102683625, 47.0405866665 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102719898, 47.0405855775 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310283867, 47.0405795862 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102826424, 47.0405754845 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102636123, 47.0405842468 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102618155, 47.0405813728 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102575998, 47.0405778336 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102516158, 47.0405756859 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102391222, 47.0405712002 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101685878, 47.0405459093 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101641375, 47.0405425068 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101498695, 47.0405131096 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100878482, 47.0403826903 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100619971, 47.0403268279 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.75
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3097988312, 47.0403471472 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3098706323, 47.0403341867 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3099493323, 47.0403205639 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102757584, 47.0406093871 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104320535, 47.0409305299 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103222946, 47.040706168 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310286247, 47.0406750562 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103126201, 47.040705189 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103042871, 47.0407074112 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310316328, 47.0407041983 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108639866, 47.0401083461 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108676633, 47.0401418626 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100972242, 47.0401268615 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100944604, 47.0401090082 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3132723531, 47.041300532 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 438.76,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.7
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130018965, 47.0414548422 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 438.5,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312997451, 47.0414525552 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 438.47,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124167305, 47.0420151246 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 437.55,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124811539, 47.0420439599 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 437.57,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124203345, 47.0420659312 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 437.51,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3131984727, 47.041267661 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.06,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.35
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3131935192, 47.0412656135 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.06,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1.35
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124500373, 47.0420337619 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124558103, 47.0420327104 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124492355, 47.0420297739 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124545644, 47.0420289328 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124964922, 47.0419846523 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125098342, 47.0419158875 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128647134, 47.0415865026 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128614286, 47.0415851962 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118783807, 47.0403451798 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 441.76,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119255498, 47.0403812352 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 441.58,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129368954, 47.0408139525 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 440.64,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129386082, 47.040810854 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 440.73,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129988169, 47.0414532014 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130009535, 47.0414543096 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118392844, 47.0414584638 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130864526, 47.0413358974 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3122031323, 47.0410025799 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0.7
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.313325722, 47.0410322911 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3099504957, 47.0408159116 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125430817, 47.0410591567 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100827581, 47.0401055078 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100818098, 47.040101404 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128143117, 47.0415589011 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 0,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119913511, 47.0405765054 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.863,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119440899, 47.0406275316 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.905,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3117701833, 47.0408138267 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.569,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 1.1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311218993, 47.0414003007 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.31122351, 47.0413996996 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3113714028, 47.0412377796 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.891,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3113757193, 47.0412369912 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.901,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311824611, 47.0408349931 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.539,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119755099, 47.0405337889 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120265133, 47.0404779882 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.904,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120288963, 47.0404756402 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.763,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3116339379, 47.0406206662 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 441.51,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118569895, 47.0407216977 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.744,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123380867, 47.0421538565 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 437.733,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111635184, 47.0414596163 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.274,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111614885, 47.0414618356 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.525,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111554209, 47.0414682326 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.469,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111538393, 47.0414713121 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.173,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111723736, 47.041471702 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.507,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111756498, 47.0414732963 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.265,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111735823, 47.0414829103 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.471,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111538844, 47.0414854168 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.091,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111240546, 47.0415065672 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.111,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110795081, 47.0414877722 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.663,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110785398, 47.041484874 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.662,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311073315, 47.0414832135 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.584,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110992734, 47.041536351 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.919,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107169191, 47.041955508 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.142,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107157846, 47.0419561463 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.25,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106248512, 47.0419186957 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 439.159,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111519911, 47.0415567212 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.475,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311153303, 47.0415589061 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.475,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106282495, 47.0419148468 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 0,
+				"HOEHENBEST" : 0,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311156825, 47.0415610473 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 440.774,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110282626, 47.0401594612 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.596,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110250919, 47.0401594943 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 442.536,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.31172274, 47.0417919705 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.668,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3117242303, 47.0417913654 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.741,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3117743065, 47.0417377749 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.765,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3117665157, 47.0417342638 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.772,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118463894, 47.041768883 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.603,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118529883, 47.041771608 ]
+			},
+			"properties" : {
+				"LAGEBESTIM" : 2,
+				"HOEHE" : 438.606,
+				"HOEHENBEST" : 2,
+				"UEBERDECKU" : 0
+			}
+		}
+	]
+}

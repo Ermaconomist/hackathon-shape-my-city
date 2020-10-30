@@ -1,0 +1,2691 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "AWK_HALTUNGSPUNKT",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124741647, 47.0420632456 ]
+			},
+			"properties" : {
+				"OBJECTID" : 113698,
+				"KOTE" : 435.847,
+				"GLOBALID" : "2183B45D-7B59-4980-8995-FCD5C39DE4DF",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124731142, 47.0420569207 ]
+			},
+			"properties" : {
+				"OBJECTID" : 113699,
+				"KOTE" : 435.82,
+				"GLOBALID" : "FA17238E-764E-46AE-A0C3-E1C6F71BF447",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124642843, 47.042056916 ]
+			},
+			"properties" : {
+				"OBJECTID" : 113700,
+				"KOTE" : 435.869,
+				"GLOBALID" : "99E9D6DC-D1E2-4C8A-8DDC-89A55BE359B0",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124655169, 47.0420631136 ]
+			},
+			"properties" : {
+				"OBJECTID" : 113701,
+				"KOTE" : 435.849,
+				"GLOBALID" : "8DB09CA4-5EFC-4A0E-8AB7-93B1F4157E32",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129288239, 47.0415670787 ]
+			},
+			"properties" : {
+				"OBJECTID" : 113702,
+				"KOTE" : 436.66,
+				"GLOBALID" : "E04DB08B-8233-488C-9D67-CC64CC26AE6E",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103801759, 47.0424382669 ]
+			},
+			"properties" : {
+				"OBJECTID" : 115603,
+				"KOTE" : 438.768,
+				"GLOBALID" : "F5B54B89-7158-48D5-A876-A6B9A55646B6",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103850298, 47.0424421971 ]
+			},
+			"properties" : {
+				"OBJECTID" : 115604,
+				"KOTE" : 439.322,
+				"GLOBALID" : "17690E52-11F1-4EC6-8011-9FE335E0A026",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133817972, 47.0410713275 ]
+			},
+			"properties" : {
+				"OBJECTID" : 117225,
+				"KOTE" : 439.505,
+				"GLOBALID" : "8D184F41-2A47-4BF2-A93A-9A30666A7736",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133795845, 47.0410728196 ]
+			},
+			"properties" : {
+				"OBJECTID" : 117226,
+				"KOTE" : 440.358,
+				"GLOBALID" : "B725BA35-918E-4784-B6F6-D54A08BAF06F",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133817972, 47.0410713275 ]
+			},
+			"properties" : {
+				"OBJECTID" : 117631,
+				"KOTE" : 439.505,
+				"GLOBALID" : "A561A994-8843-4F77-B37A-3FAD602885C9",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110057314, 47.0401357851 ]
+			},
+			"properties" : {
+				"OBJECTID" : 126017,
+				"KOTE" : 442.077,
+				"GLOBALID" : "1B2DA477-CD15-4C6A-AB2C-D77317EB9AB9",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110139232, 47.04013136 ]
+			},
+			"properties" : {
+				"OBJECTID" : 126018,
+				"KOTE" : 442.486,
+				"GLOBALID" : "16DCDAA0-EAD5-4508-B189-1B6A52126870",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109639578, 47.0401401685 ]
+			},
+			"properties" : {
+				"OBJECTID" : 126019,
+				"KOTE" : 440.115,
+				"GLOBALID" : "7F427BCC-E2DB-454F-9889-66D2A8CFA342",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109732294, 47.0401357892 ]
+			},
+			"properties" : {
+				"OBJECTID" : 126020,
+				"KOTE" : 440.403,
+				"GLOBALID" : "66E63920-D5C1-4C95-8293-B8615E8E93D2",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109172036, 47.0401983743 ]
+			},
+			"properties" : {
+				"OBJECTID" : 126021,
+				"KOTE" : 439.842,
+				"GLOBALID" : "570F1D50-1B27-4545-B8A6-F705692A6AED",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109300597, 47.040197566 ]
+			},
+			"properties" : {
+				"OBJECTID" : 126022,
+				"KOTE" : 441.25,
+				"GLOBALID" : "2BBC1BB6-B000-4036-96C9-7DB815190DDD",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310927586, 47.0401935277 ]
+			},
+			"properties" : {
+				"OBJECTID" : 126023,
+				"KOTE" : 442.165,
+				"GLOBALID" : "821187D4-7042-42EA-984D-87E8F2BD6AB1",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109246109, 47.0401934514 ]
+			},
+			"properties" : {
+				"OBJECTID" : 126024,
+				"KOTE" : 441.087,
+				"GLOBALID" : "BA688179-64B4-41E4-BAE7-1BCDB1A889C1",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110265655, 47.0401165922 ]
+			},
+			"properties" : {
+				"OBJECTID" : 126025,
+				"KOTE" : 443.107,
+				"GLOBALID" : "F9DB64B4-B964-4844-875C-381C4DC7BF6E",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110280157, 47.0401110938 ]
+			},
+			"properties" : {
+				"OBJECTID" : 126026,
+				"KOTE" : 443.167,
+				"GLOBALID" : "BEDCCCB2-6FAA-4BC5-A2FE-6DCFC023FF8C",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100644644, 47.0402989616 ]
+			},
+			"properties" : {
+				"OBJECTID" : 126027,
+				"KOTE" : 442.081,
+				"GLOBALID" : "2B33C8CB-6893-4D10-A9A3-6207BB71CC55",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101291485, 47.0404193891 ]
+			},
+			"properties" : {
+				"OBJECTID" : 126028,
+				"KOTE" : 442.139,
+				"GLOBALID" : "2A7799D1-729B-40E3-A8AA-24D6F274EEBE",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109687034, 47.0401342134 ]
+			},
+			"properties" : {
+				"OBJECTID" : 126029,
+				"KOTE" : 442.755,
+				"GLOBALID" : "4552D7A8-9870-4D69-825F-C4AE12ACB534",
+				"HOEHENBEST" : "Ungenau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105575364, 47.0423418549 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134011,
+				"KOTE" : 437.374,
+				"GLOBALID" : "D2D072EB-ECE6-418B-9FB5-D2848FFB7C13",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105569881, 47.0423372623 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134012,
+				"KOTE" : 439.433,
+				"GLOBALID" : "7CBF4477-6103-4BB2-BA0B-2C73B9A51858",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105498818, 47.0423364347 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134014,
+				"KOTE" : 437.37,
+				"GLOBALID" : "B93F9662-BA76-4FB8-9FB3-7A96BA4DD2A5",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105517905, 47.0423405222 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134015,
+				"KOTE" : 437.388,
+				"GLOBALID" : "C98875D4-770B-4723-A5E8-CC01439757E1",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105491475, 47.0423414598 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134016,
+				"KOTE" : 439.283,
+				"GLOBALID" : "0547CB1D-4F1F-4348-8C6D-F6FFCB24C5D6",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105506985, 47.0423429683 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134017,
+				"KOTE" : 439.324,
+				"GLOBALID" : "AA5C9FFA-3A29-480A-BB36-D7D8B614B258",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310440708, 47.0422673412 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134018,
+				"KOTE" : 437.515,
+				"GLOBALID" : "8141EB09-49A1-4854-A22C-FEE9DDD8D3AD",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104366516, 47.0422598427 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134019,
+				"KOTE" : 437.539,
+				"GLOBALID" : "8A5696CA-9075-4779-AA55-E67FFFC01705",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104299475, 47.0422602804 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134020,
+				"KOTE" : 437.528,
+				"GLOBALID" : "23D721DB-EC15-4E93-99D8-8A3825290B78",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104804722, 47.042253375 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134021,
+				"KOTE" : 437.423,
+				"GLOBALID" : "D28A1CDB-0D0D-47C6-84CD-5A080F711E4B",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104804592, 47.0422493361 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134022,
+				"KOTE" : 439.423,
+				"GLOBALID" : "7FC10E2C-8858-486B-9CA0-56CE545B2061",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104713019, 47.042248623 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134023,
+				"KOTE" : 437.307,
+				"GLOBALID" : "D85CC77C-E5C6-4DC9-89D9-65805A4FA8BE",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104417009, 47.0422328806 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134024,
+				"KOTE" : 437.458,
+				"GLOBALID" : "6146617C-608E-4368-9C62-F1DCF5468326",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310435258, 47.0422331994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134025,
+				"KOTE" : 437.989,
+				"GLOBALID" : "0A2EE135-E2D7-4E1F-8A24-5708CA649A4F",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103926089, 47.0422364468 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134026,
+				"KOTE" : 437.565,
+				"GLOBALID" : "F45CD90C-8C14-4200-80D9-6543F8706A5C",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103870604, 47.042230255 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134027,
+				"KOTE" : 437.577,
+				"GLOBALID" : "39CA3946-DBB7-4F41-8A18-54D174919D4A",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105149698, 47.0421501677 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134028,
+				"KOTE" : 437.571,
+				"GLOBALID" : "01C2569C-A29B-454E-9D02-B82E259557B3",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105212583, 47.0421435891 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134029,
+				"KOTE" : 437.548,
+				"GLOBALID" : "FB260A56-A381-46F3-99D4-9BE859B24E3B",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105171602, 47.0421497193 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134030,
+				"KOTE" : 439.643,
+				"GLOBALID" : "2E67590C-C1A2-41E2-9520-C6FA843C7131",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105250424, 47.0421165107 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134031,
+				"KOTE" : 437.595,
+				"GLOBALID" : "B91ED33C-B0ED-4426-80E1-8EB8545D9E4D",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310523765, 47.0421075428 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134032,
+				"KOTE" : 437.613,
+				"GLOBALID" : "D369A08F-C021-4551-8C93-43D96CDFF649",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104961757, 47.0420528254 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134033,
+				"KOTE" : 437.695,
+				"GLOBALID" : "76CC506F-F054-4468-8769-E7316E6092F7",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104961559, 47.0420443157 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134034,
+				"KOTE" : 437.732,
+				"GLOBALID" : "0DDECB09-B8C2-44F1-B084-24E228E6E160",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103189817, 47.0421885916 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134035,
+				"KOTE" : 437.569,
+				"GLOBALID" : "36D17CEA-FB85-4CF1-8885-62A09367A0BD",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103106714, 47.0421825018 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134037,
+				"KOTE" : 437.582,
+				"GLOBALID" : "87549261-26B1-403F-8D4D-AE21EA5175D7",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103186573, 47.0421864442 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134038,
+				"KOTE" : 439.797,
+				"GLOBALID" : "B33B0B1B-3BAB-4779-A1E4-A8D8CE300BE5",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104934339, 47.0420436258 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134039,
+				"KOTE" : 439.484,
+				"GLOBALID" : "022CA47C-D68A-474B-A997-B13409A024C6",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310236429, 47.0420262996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134040,
+				"KOTE" : 438.001,
+				"GLOBALID" : "D6BA29CE-AA90-4860-9563-B34A9CD20275",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102398857, 47.0420244202 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134041,
+				"KOTE" : 439.836,
+				"GLOBALID" : "11E2A0C1-78E1-437F-84ED-E4AB0F6E2548",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310239326, 47.0420191261 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134042,
+				"KOTE" : 438.672,
+				"GLOBALID" : "CF1C4319-F063-47EA-A20C-2921B76E3815",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310232933, 47.042018464 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134043,
+				"KOTE" : 438.007,
+				"GLOBALID" : "47D3B933-6863-49C1-BB2F-A0CA84EE64FB",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103635702, 47.042050396 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134044,
+				"KOTE" : 437.817,
+				"GLOBALID" : "19743F55-CFB6-49CA-98A0-D4257836CED7",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103687176, 47.0420448606 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134045,
+				"KOTE" : 437.866,
+				"GLOBALID" : "37374AC1-0B5A-4F85-B991-B40C5E1B5B0D",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310363008, 47.0420409009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134046,
+				"KOTE" : 437.84,
+				"GLOBALID" : "B9029E20-02AF-4C08-8450-57745E0E8A09",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105514342, 47.0423356044 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134407,
+				"KOTE" : 438.059,
+				"GLOBALID" : "25A343E3-3AF3-4CE5-BC4F-7171F61F1024",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104636035, 47.040959364 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134408,
+				"KOTE" : 438.889,
+				"GLOBALID" : "3A38DA6F-69E9-4C31-AEDC-A4A0A7AEA6D6",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104720626, 47.0409535696 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134409,
+				"KOTE" : 438.877,
+				"GLOBALID" : "57AAD614-ABCF-4EA6-A21A-DD4B502DBCD1",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104734251, 47.040958057 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134410,
+				"KOTE" : 441.228,
+				"GLOBALID" : "F244FBE1-8E6C-40FD-94CE-AE6938A0DDD4",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310464558, 47.0409508919 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134411,
+				"KOTE" : 441.151,
+				"GLOBALID" : "3EE7D8D8-95B3-4F45-9B45-C3444F745F71",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104229619, 47.0409986324 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134412,
+				"KOTE" : 438.875,
+				"GLOBALID" : "F64CD1CC-06AF-4C97-865C-8D15CE721981",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104321602, 47.0409929763 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134413,
+				"KOTE" : 438.936,
+				"GLOBALID" : "9016CCE2-A14D-4A61-BE04-CFD6A57ECB05",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310955474, 47.0408340167 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134414,
+				"KOTE" : 439.218,
+				"GLOBALID" : "08491CD9-C419-4DC7-85FE-292FD71CD545",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109546098, 47.0408334746 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134415,
+				"KOTE" : 440.522,
+				"GLOBALID" : "FBE9E853-7994-464B-8834-854B47A1D341",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109594427, 47.0408361185 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134416,
+				"KOTE" : 440.497,
+				"GLOBALID" : "1078FAE9-DDD9-4F80-8A83-D37A1846638A",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.31096318, 47.0408296583 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134417,
+				"KOTE" : 439.216,
+				"GLOBALID" : "E252FA1E-362A-495D-AB74-F2DF7DA35CA6",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109981263, 47.0407484866 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134418,
+				"KOTE" : 440.502,
+				"GLOBALID" : "09C3C164-60B7-42BF-92C3-2A7C5F5239A9",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109934755, 47.0407448967 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134419,
+				"KOTE" : 440.536,
+				"GLOBALID" : "FE6444F9-3382-4B12-988F-EB20C8C04A9D",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104260515, 47.0409911786 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134420,
+				"KOTE" : 438.83,
+				"GLOBALID" : "88C4E6D2-8A8B-40CD-B968-ABCDB61921DC",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104425937, 47.0422368049 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134807,
+				"KOTE" : 436.58,
+				"GLOBALID" : "14B67A0A-7D25-4042-9FEC-3FBD7B5F4853",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103812757, 47.0422313964 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134808,
+				"KOTE" : 437.57,
+				"GLOBALID" : "19C177D8-77D4-46DF-B8E2-D86A6B52EEA6",
+				"HOEHENBEST" : "Ungenau",
+				"LAGEBESTIM" : "Ungenau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3093295387, 47.0401412228 ]
+			},
+			"properties" : {
+				"OBJECTID" : 136036,
+				"KOTE" : 442.137,
+				"GLOBALID" : "4CBF9AE5-F4C8-4760-8130-4689C4562792",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3093253851, 47.0401325825 ]
+			},
+			"properties" : {
+				"OBJECTID" : 136037,
+				"KOTE" : 443.16,
+				"GLOBALID" : "40415F3B-3466-4ACD-A817-0D6B9D097D81",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3093221693, 47.0401347029 ]
+			},
+			"properties" : {
+				"OBJECTID" : 136038,
+				"KOTE" : 442.16,
+				"GLOBALID" : "73CAE50F-55A8-495C-AB40-2926896BB277",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3114196031, 47.0409375907 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143207,
+				"KOTE" : 439.043,
+				"GLOBALID" : "48987B91-A344-43E4-9DC3-7BF2EEB63D4C",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3114245824, 47.0409346743 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143208,
+				"KOTE" : 440.509,
+				"GLOBALID" : "36547F22-1200-46A3-9816-25CB4D3A6824",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3114136568, 47.0409287843 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143209,
+				"KOTE" : 440.425,
+				"GLOBALID" : "0C5833ED-BB4B-4495-9498-B92AFAC82233",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3114124808, 47.040929297 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143210,
+				"KOTE" : 439.051,
+				"GLOBALID" : "BEBC6DE2-9A3F-4D27-925E-42003DE34560",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3114128292, 47.0409321099 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143211,
+				"KOTE" : 440.475,
+				"GLOBALID" : "5AA2C5AF-EF92-44AC-BEC6-6100E4C1BA1F",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3114112635, 47.0409345506 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143212,
+				"KOTE" : 439.687,
+				"GLOBALID" : "72B4DF0E-A659-4DAB-A91A-BAFB249B591C",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311413734, 47.0409351526 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143213,
+				"KOTE" : 440.488,
+				"GLOBALID" : "7D2E8880-F249-4F56-AF64-113764037208",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102363332, 47.0414363617 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143214,
+				"KOTE" : 438.533,
+				"GLOBALID" : "D4051C11-ACC6-4D8E-B7D1-7C065526C884",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102354043, 47.0414358829 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143215,
+				"KOTE" : 440.94,
+				"GLOBALID" : "C23C6525-3F19-42A7-A7D2-43A6B3EF6F0A",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102437365, 47.0414336068 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143216,
+				"KOTE" : 440.91,
+				"GLOBALID" : "341F28B5-AB8F-4D22-B4FB-45833182834B",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102405049, 47.0414266597 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143217,
+				"KOTE" : 438.576,
+				"GLOBALID" : "3DC5BAD9-AAE1-4AB1-BF4A-93A2A16116A6",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3097984973, 47.0411174183 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143218,
+				"KOTE" : 440.156,
+				"GLOBALID" : "7F682D0F-C8F3-4BED-9C3B-C2BD72C8666D",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3097941359, 47.0411097691 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143219,
+				"KOTE" : 440.175,
+				"GLOBALID" : "8006B0DF-EB72-453F-8EF9-B2FB049EEE6F",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3097907545, 47.0411089852 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143220,
+				"KOTE" : 441.047,
+				"GLOBALID" : "0C354ABB-E421-4559-996C-AF5B578CBEFF",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3097907843, 47.0411108201 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143221,
+				"KOTE" : 441.057,
+				"GLOBALID" : "70932C64-4CA0-439F-A850-B7231C0C8F16",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108334341, 47.0416853495 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143222,
+				"KOTE" : 438.244,
+				"GLOBALID" : "86D5A8D0-6637-41EB-8171-7DC137F4F4FC",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310845813, 47.0416794443 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143223,
+				"KOTE" : 439.431,
+				"GLOBALID" : "344E7603-7B04-4CE4-9F93-084BEF99D283",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108428125, 47.0416761927 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143224,
+				"KOTE" : 438.24,
+				"GLOBALID" : "27C37509-0DF3-4D30-8D4B-A13DBD5599C9",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108386319, 47.0416748211 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143225,
+				"KOTE" : 439.643,
+				"GLOBALID" : "9DCB34CE-DBCC-4107-83F6-5E89A18A1B20",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108311814, 47.0416803381 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143226,
+				"KOTE" : 439.873,
+				"GLOBALID" : "02800589-CCEC-4202-B515-0A4EF0228140",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111291017, 47.0414827356 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143227,
+				"KOTE" : 437.991,
+				"GLOBALID" : "01F453EC-C85B-4195-9360-2D3F64A774B4",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111351648, 47.0414760598 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143228,
+				"KOTE" : 437.99,
+				"GLOBALID" : "333A1C2A-418D-40B0-9078-B930B1C51F0E",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311128178, 47.0414769135 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143229,
+				"KOTE" : 438.024,
+				"GLOBALID" : "33720B72-A1F6-4EBD-ACDF-F3CB35F1536B",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111254621, 47.0414798307 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143230,
+				"KOTE" : 438.352,
+				"GLOBALID" : "3D79A5D6-DD95-4F41-B773-F8D2605BE91A",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111286434, 47.0414836836 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143231,
+				"KOTE" : 439.785,
+				"GLOBALID" : "CB0CDDF1-17F1-4716-926E-6C85E79E2DD6",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111350518, 47.0414755839 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143232,
+				"KOTE" : 439.863,
+				"GLOBALID" : "AC5918AC-548E-42F9-B749-234CA8C75CDE",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111976547, 47.0412986959 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143233,
+				"KOTE" : 438.706,
+				"GLOBALID" : "525F9D06-97F4-461C-83FF-44E3C818F6E9",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112032626, 47.0412915468 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143234,
+				"KOTE" : 438.698,
+				"GLOBALID" : "1AFC7339-7151-4C61-B39D-FF1D3DE1E617",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111965226, 47.0412905815 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143235,
+				"KOTE" : 439.862,
+				"GLOBALID" : "B9C00BB6-A3D5-4F47-8A8E-E7943DB826C5",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111975716, 47.041515292 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143236,
+				"KOTE" : 437.209,
+				"GLOBALID" : "44F1EB6B-C0FC-45DE-8F03-FDC1DC4FF06A",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111872575, 47.0415106027 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143237,
+				"KOTE" : 437.261,
+				"GLOBALID" : "00F34627-A329-4543-AA70-A43EB4E94F84",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311187857, 47.0415159055 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143238,
+				"KOTE" : 437.441,
+				"GLOBALID" : "4DC56ED6-EE2F-4325-9F68-12C0F5DB967A",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102729675, 47.0407073251 ]
+			},
+			"properties" : {
+				"OBJECTID" : 144407,
+				"KOTE" : 439.461,
+				"GLOBALID" : "63A1B75E-A315-4D42-A322-52A69627B307",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102657419, 47.0407015689 ]
+			},
+			"properties" : {
+				"OBJECTID" : 144408,
+				"KOTE" : 439.381,
+				"GLOBALID" : "88D762C5-EB73-41F2-9DF4-BC26817A00A7",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102735848, 47.0407072485 ]
+			},
+			"properties" : {
+				"OBJECTID" : 144409,
+				"KOTE" : 441.277,
+				"GLOBALID" : "B060C7A1-48E9-413F-B2BD-40E62AAB4B43",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102736924, 47.0407033436 ]
+			},
+			"properties" : {
+				"OBJECTID" : 144410,
+				"KOTE" : 440.26,
+				"GLOBALID" : "F2FAC0B3-F731-4F75-A2A8-B78106367D14",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102722314, 47.0407033187 ]
+			},
+			"properties" : {
+				"OBJECTID" : 144411,
+				"KOTE" : 441.571,
+				"GLOBALID" : "2E5F377A-4B69-4F7D-889A-A51FB931EC91",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102651308, 47.0407028329 ]
+			},
+			"properties" : {
+				"OBJECTID" : 144412,
+				"KOTE" : 441.661,
+				"GLOBALID" : "E44BE698-2C38-419E-9244-D5B1589CFA5C",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120567783, 47.0405014073 ]
+			},
+			"properties" : {
+				"OBJECTID" : 173607,
+				"KOTE" : 439.15,
+				"GLOBALID" : "08986C5A-473F-46ED-8921-0E713E9BC496",
+				"HOEHENBEST" : "Ungenau",
+				"LAGEBESTIM" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312044052, 47.040495648 ]
+			},
+			"properties" : {
+				"OBJECTID" : 173608,
+				"KOTE" : 439.21,
+				"GLOBALID" : "FF3458F0-C80A-442D-8EB8-2795C25493B9",
+				"HOEHENBEST" : "Ungenau",
+				"LAGEBESTIM" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312053997, 47.0404946458 ]
+			},
+			"properties" : {
+				"OBJECTID" : 173609,
+				"KOTE" : 439.16,
+				"GLOBALID" : "BBB7F214-EDBE-43DD-9003-939A6F8796D7",
+				"HOEHENBEST" : "Ungenau",
+				"LAGEBESTIM" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120469183, 47.0405019681 ]
+			},
+			"properties" : {
+				"OBJECTID" : 173610,
+				"KOTE" : 439.15,
+				"GLOBALID" : "3A3E1643-A44D-4851-88C3-7D622EA33B5F",
+				"HOEHENBEST" : "Ungenau",
+				"LAGEBESTIM" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128266706, 47.0408289509 ]
+			},
+			"properties" : {
+				"OBJECTID" : 173611,
+				"KOTE" : 440.06,
+				"GLOBALID" : "B9FB069E-3F4C-4D40-B5D2-09BA8ABB70AB",
+				"HOEHENBEST" : "Ungenau",
+				"LAGEBESTIM" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128202356, 47.0408313567 ]
+			},
+			"properties" : {
+				"OBJECTID" : 173612,
+				"KOTE" : 440.13,
+				"GLOBALID" : "A257018C-F7D1-4724-9C5D-8AD84E2E4AE6",
+				"HOEHENBEST" : "Ungenau",
+				"LAGEBESTIM" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128301157, 47.040834448 ]
+			},
+			"properties" : {
+				"OBJECTID" : 173613,
+				"KOTE" : 438.63,
+				"GLOBALID" : "B1C0E120-32B6-4414-A1ED-1259605774D0",
+				"HOEHENBEST" : "Ungenau",
+				"LAGEBESTIM" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3116610971, 47.0403197826 ]
+			},
+			"properties" : {
+				"OBJECTID" : 173614,
+				"KOTE" : 440.75,
+				"GLOBALID" : "107CAE96-4361-4C64-83F3-4B7C9490644E",
+				"HOEHENBEST" : "Ungenau",
+				"LAGEBESTIM" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3116608846, 47.0403196583 ]
+			},
+			"properties" : {
+				"OBJECTID" : 173615,
+				"KOTE" : 439.93,
+				"GLOBALID" : "48227BFC-7FC3-44B9-9911-274F45D76FB1",
+				"HOEHENBEST" : "Ungenau",
+				"LAGEBESTIM" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3116628423, 47.0403259493 ]
+			},
+			"properties" : {
+				"OBJECTID" : 173616,
+				"KOTE" : 439.86,
+				"GLOBALID" : "E0CCC2A1-EBB2-4E0C-AC04-B3C196963BF2",
+				"HOEHENBEST" : "Ungenau",
+				"LAGEBESTIM" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3116529807, 47.0403264111 ]
+			},
+			"properties" : {
+				"OBJECTID" : 173617,
+				"KOTE" : 441.55,
+				"GLOBALID" : "B13E79F1-09D1-4755-8A02-306E6E98C602",
+				"HOEHENBEST" : "Ungenau",
+				"LAGEBESTIM" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105127181, 47.0422342934 ]
+			},
+			"properties" : {
+				"OBJECTID" : 242407,
+				"KOTE" : 439.79,
+				"GLOBALID" : "5B8EB323-854F-43E9-B802-5D7F6CD125E2",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105130813, 47.0422363956 ]
+			},
+			"properties" : {
+				"OBJECTID" : 242408,
+				"KOTE" : 439.73,
+				"GLOBALID" : "20AB294E-E407-4360-A4C7-D82B35944BF7",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120303599, 47.0404354009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 334008,
+				"KOTE" : 439.428,
+				"GLOBALID" : "D134B53D-D51C-4C25-B624-396099416F12",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.31202966, 47.0404320149 ]
+			},
+			"properties" : {
+				"OBJECTID" : 334009,
+				"KOTE" : 439.425,
+				"GLOBALID" : "96587900-C558-4C0A-8205-C584A25393DA",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120274528, 47.04043142 ]
+			},
+			"properties" : {
+				"OBJECTID" : 334010,
+				"KOTE" : 439.436,
+				"GLOBALID" : "0E07737E-4BBA-4204-B927-C36037236E2D",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123073181, 47.0405552647 ]
+			},
+			"properties" : {
+				"OBJECTID" : 334012,
+				"KOTE" : 439.546,
+				"GLOBALID" : "84BC2159-B59C-4EEC-8881-E0A8FCAE154C",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123143756, 47.0405539156 ]
+			},
+			"properties" : {
+				"OBJECTID" : 334013,
+				"KOTE" : 439.564,
+				"GLOBALID" : "F193174D-242F-4B1E-8F36-75DB8C11E5BA",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123072438, 47.0405563537 ]
+			},
+			"properties" : {
+				"OBJECTID" : 334014,
+				"KOTE" : 441.615,
+				"GLOBALID" : "F30D215F-D390-4681-829F-F5B2B1291C2F",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123156882, 47.0405601755 ]
+			},
+			"properties" : {
+				"OBJECTID" : 334015,
+				"KOTE" : 441.505,
+				"GLOBALID" : "4E5950EF-209C-4E3A-8660-F1850FC2F00C",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123062739, 47.0405501271 ]
+			},
+			"properties" : {
+				"OBJECTID" : 334016,
+				"KOTE" : 442.058,
+				"GLOBALID" : "0C6E8ABA-9336-43DB-A12B-2DFD88574882",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121075453, 47.0404690868 ]
+			},
+			"properties" : {
+				"OBJECTID" : 334017,
+				"KOTE" : 441.679,
+				"GLOBALID" : "6F9AFD51-8905-4412-95D9-01F1BB76727A",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120995116, 47.0404702814 ]
+			},
+			"properties" : {
+				"OBJECTID" : 334018,
+				"KOTE" : 439.342,
+				"GLOBALID" : "6E7AC4BB-FB11-4AAC-975B-787A744E383E",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312107801, 47.0404686261 ]
+			},
+			"properties" : {
+				"OBJECTID" : 334019,
+				"KOTE" : 439.66,
+				"GLOBALID" : "CB4BC1A5-B680-43B6-9D02-A668193DB4F0",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121078419, 47.0404679061 ]
+			},
+			"properties" : {
+				"OBJECTID" : 334020,
+				"KOTE" : 439.355,
+				"GLOBALID" : "4664383F-A288-4742-A7FE-03F577C2F5F6",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312100891, 47.0404644867 ]
+			},
+			"properties" : {
+				"OBJECTID" : 334021,
+				"KOTE" : 439.341,
+				"GLOBALID" : "8E2F3059-651B-40FF-9D39-FDC3A5BC5194",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120985144, 47.0404664209 ]
+			},
+			"properties" : {
+				"OBJECTID" : 334022,
+				"KOTE" : 439.361,
+				"GLOBALID" : "E0131115-5CD6-4EAF-8471-D5F7BAAB78C5",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310530146, 47.0421131346 ]
+			},
+			"properties" : {
+				"OBJECTID" : 452838,
+				"KOTE" : 437.617,
+				"GLOBALID" : "B08F22C2-AB3C-4091-976A-0FF89498C374",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106253874, 47.0421136257 ]
+			},
+			"properties" : {
+				"OBJECTID" : 452839,
+				"KOTE" : 437.736,
+				"GLOBALID" : "21179A88-9C8D-48E5-B1C5-B22718CDF143",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106317776, 47.0421197841 ]
+			},
+			"properties" : {
+				"OBJECTID" : 452840,
+				"KOTE" : 437.817,
+				"GLOBALID" : "ED228AE6-B125-4EE6-AC65-F7203CB46A9B",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310635367, 47.0421179757 ]
+			},
+			"properties" : {
+				"OBJECTID" : 452841,
+				"KOTE" : 437.784,
+				"GLOBALID" : "96E22FFB-12D3-4C9A-9FCA-CEE860E7A09F",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106334871, 47.0421124218 ]
+			},
+			"properties" : {
+				"OBJECTID" : 452842,
+				"KOTE" : 437.817,
+				"GLOBALID" : "9EA138F1-D420-4AAD-8497-681BDB18B6D8",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310651267, 47.0420922896 ]
+			},
+			"properties" : {
+				"OBJECTID" : 452843,
+				"KOTE" : 437.925,
+				"GLOBALID" : "AD7F0ABC-5192-42C8-AD96-B854EBBBF7AD",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310659657, 47.042104091 ]
+			},
+			"properties" : {
+				"OBJECTID" : 452844,
+				"KOTE" : 437.947,
+				"GLOBALID" : "A360D45A-B9DC-4CC6-B319-6B265437DBAA",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106741288, 47.0420884997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 452846,
+				"KOTE" : 438.28,
+				"GLOBALID" : "02BC4D24-7E1D-48B0-B1BB-55CA425DD332",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110441455, 47.0414284452 ]
+			},
+			"properties" : {
+				"OBJECTID" : 456861,
+				"KOTE" : 437.873,
+				"GLOBALID" : "0B9ED06A-F6D8-4379-8C33-B1B12B972C29",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.31103526, 47.0414290614 ]
+			},
+			"properties" : {
+				"OBJECTID" : 456862,
+				"KOTE" : 439.478,
+				"GLOBALID" : "A5352444-DFD8-4AAE-BA8B-A75E3FF1DD47",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110420033, 47.041421328 ]
+			},
+			"properties" : {
+				"OBJECTID" : 456863,
+				"KOTE" : 439.853,
+				"GLOBALID" : "ADC84DDF-8E38-482C-AF04-E90CE74E258E",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110391832, 47.0414202699 ]
+			},
+			"properties" : {
+				"OBJECTID" : 456864,
+				"KOTE" : 439.984,
+				"GLOBALID" : "5761D5A0-D5E7-44D9-A160-81FD0E3137CE",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311079776, 47.0414645975 ]
+			},
+			"properties" : {
+				"OBJECTID" : 456865,
+				"KOTE" : 439.942,
+				"GLOBALID" : "E8F8F14C-BBF7-48FC-9F0F-CB3F886CC3CB",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3091265207, 47.0401660788 ]
+			},
+			"properties" : {
+				"OBJECTID" : 491049,
+				"KOTE" : 443.58,
+				"GLOBALID" : "94B4CC2E-3C1B-4AEE-834A-E958F9E6F52A",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3091197651, 47.0401633234 ]
+			},
+			"properties" : {
+				"OBJECTID" : 491050,
+				"KOTE" : 443.62,
+				"GLOBALID" : "C847B9CF-C7FC-49C3-88E5-71BADC03E648",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.309239153, 47.0401607989 ]
+			},
+			"properties" : {
+				"OBJECTID" : 491051,
+				"KOTE" : 443.3,
+				"GLOBALID" : "AF9E1993-5350-4922-A71A-AA56C9C8AEAE",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3092332825, 47.0401590713 ]
+			},
+			"properties" : {
+				"OBJECTID" : 491052,
+				"KOTE" : 443.394,
+				"GLOBALID" : "F296FBEF-F07B-41C4-BCC4-056534D01A62",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3092506657, 47.0401647776 ]
+			},
+			"properties" : {
+				"OBJECTID" : 491053,
+				"KOTE" : 443.35,
+				"GLOBALID" : "5FDE5BDD-957B-4A9C-A7E5-EF6C65407DA2",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3092440863, 47.0401639639 ]
+			},
+			"properties" : {
+				"OBJECTID" : 491054,
+				"KOTE" : 443.519,
+				"GLOBALID" : "4712D436-6C99-4491-B9A4-831455EEE263",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3093030674, 47.0401876968 ]
+			},
+			"properties" : {
+				"OBJECTID" : 491055,
+				"KOTE" : 443.262,
+				"GLOBALID" : "07C21C02-11FA-42C6-8338-1A0B29CC5741",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3092978691, 47.0401836072 ]
+			},
+			"properties" : {
+				"OBJECTID" : 491056,
+				"KOTE" : 443.284,
+				"GLOBALID" : "0A88CF72-B1F1-477D-AC52-A09030C285D6",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.309361369, 47.0403041611 ]
+			},
+			"properties" : {
+				"OBJECTID" : 491057,
+				"KOTE" : 442.842,
+				"GLOBALID" : "6ABBB7EC-23D0-4BC0-9946-30CADD4DD095",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3093594048, 47.0403177233 ]
+			},
+			"properties" : {
+				"OBJECTID" : 491058,
+				"KOTE" : 443.089,
+				"GLOBALID" : "E4A3BDA0-DD2A-4B00-B649-09F136022973",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3093626968, 47.0403138123 ]
+			},
+			"properties" : {
+				"OBJECTID" : 491059,
+				"KOTE" : 443.078,
+				"GLOBALID" : "65680F41-2953-4203-BB52-A2CF785AFEA9",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3093668374, 47.040317595 ]
+			},
+			"properties" : {
+				"OBJECTID" : 491060,
+				"KOTE" : 443.063,
+				"GLOBALID" : "3FB701A0-AF96-415C-ADC0-705F3445409D",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3090290668, 47.0401936514 ]
+			},
+			"properties" : {
+				"OBJECTID" : 491061,
+				"KOTE" : 444.023,
+				"GLOBALID" : "B0C5D692-F318-4E58-A017-A7CE4113E378",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3093706611, 47.0403018507 ]
+			},
+			"properties" : {
+				"OBJECTID" : 491062,
+				"KOTE" : 442.8,
+				"GLOBALID" : "FCEFEC28-FF0A-4EE6-9419-B0AA5FE5E534",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3093377005, 47.0401941358 ]
+			},
+			"properties" : {
+				"OBJECTID" : 497672,
+				"KOTE" : 443.09,
+				"GLOBALID" : "55BF9434-FAF6-443C-8FCD-D7D74E8D7BED",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3093304008, 47.0401902961 ]
+			},
+			"properties" : {
+				"OBJECTID" : 497673,
+				"KOTE" : 443.318,
+				"GLOBALID" : "6EA2C6F3-E3D2-4153-B7F5-09C5FEC1A9A0",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3092965297, 47.0401732365 ]
+			},
+			"properties" : {
+				"OBJECTID" : 497674,
+				"KOTE" : 443.461,
+				"GLOBALID" : "3B061FAD-D23A-4C26-9C57-8162C12C24B2",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3122482278, 47.0418947777 ]
+			},
+			"properties" : {
+				"OBJECTID" : 577252,
+				"KOTE" : 437.935,
+				"GLOBALID" : "FD9B4A7C-043B-435B-AB7F-611F037CE59D",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3122526388, 47.0418854868 ]
+			},
+			"properties" : {
+				"OBJECTID" : 577253,
+				"KOTE" : 438.025,
+				"GLOBALID" : "FA64BAEC-0A14-4123-8A0A-B634FB6ECA20",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125014206, 47.0417394584 ]
+			},
+			"properties" : {
+				"OBJECTID" : 577254,
+				"KOTE" : 438.751,
+				"GLOBALID" : "0BFC7491-1D4F-4943-BCFF-F1D567CD31EC",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123386648, 47.0418257142 ]
+			},
+			"properties" : {
+				"OBJECTID" : 577255,
+				"KOTE" : 438.144,
+				"GLOBALID" : "9804FD01-39CD-4DD0-ACF0-FB8C3BEC61C8",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312332466, 47.0418280912 ]
+			},
+			"properties" : {
+				"OBJECTID" : 577256,
+				"KOTE" : 438.132,
+				"GLOBALID" : "B939FA17-F079-484A-9359-A57775726A36",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123649522, 47.041823814 ]
+			},
+			"properties" : {
+				"OBJECTID" : 577257,
+				"KOTE" : 438.663,
+				"GLOBALID" : "24CC824C-BF4A-4D02-B9C7-CAE664513576",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123053857, 47.041896052 ]
+			},
+			"properties" : {
+				"OBJECTID" : 577652,
+				"KOTE" : 438.735,
+				"GLOBALID" : "7DACC4E9-E28D-4F1B-84BB-76DB1D5E12E0",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123370067, 47.0418294285 ]
+			},
+			"properties" : {
+				"OBJECTID" : 577653,
+				"KOTE" : 438.31,
+				"GLOBALID" : "AC0B0E1F-AF1F-4A81-BBCD-9B92115C915D",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"_clipped" : "no"
+			}
+		}
+	]
+}

@@ -1,0 +1,5326 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "AWK_DECKEL",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104822899, 47.0404953833 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1034,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.73,
+				"GLOBALID" : "D9FC56C1-705A-493D-8F4C-0C1AA3B4DA81",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310724282, 47.0404776322 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1035,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.83,
+				"GLOBALID" : "A2AEA65A-5D74-428D-B09B-6734437F872F",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109937972, 47.0404150535 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1036,
+				"BEMERKUNG" : "Allmendlibach",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.22,
+				"GLOBALID" : "7AE89FF5-C030-4504-AE5D-3BA03B87F2DB",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109857483, 47.0404379814 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1037,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.86,
+				"GLOBALID" : "33B0D74A-455B-4558-A1D7-5DC5F4E96DA3",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3117093632, 47.0402777031 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1366,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 443.66,
+				"GLOBALID" : "C7A63331-E9A6-4510-A5FB-8811D0302C95",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3116933511, 47.0402721756 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1367,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 443.63,
+				"GLOBALID" : "BF302B6B-5854-45C3-9D81-736B35341E98",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121821303, 47.04050792 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1475,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 442.32,
+				"GLOBALID" : "6608A278-CFFA-4535-9915-05B143C1A399",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128604386, 47.0407725524 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2325,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 443.42,
+				"GLOBALID" : "7C71831C-3F32-408C-B768-889395D3FB4A",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129404697, 47.040810417 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2326,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.55,
+				"GLOBALID" : "A31673EF-FFCE-422F-B983-89A5FE3FA546",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128359339, 47.0407618813 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2328,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 443.37,
+				"GLOBALID" : "2CAB8FCC-C622-4778-9E9D-5DB3196CD4B8",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130601326, 47.0408682828 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2330,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.46,
+				"GLOBALID" : "1FC495DF-61BA-4683-9673-005AF1BCD4A8",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3126349879, 47.0406813355 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2332,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.85,
+				"GLOBALID" : "9BEF26CC-B38D-4A64-A9FB-896AEB611FD6",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312755151, 47.0407295546 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2333,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.72,
+				"GLOBALID" : "76F34A6F-4CB8-4DF7-85C7-7B95A2542EED",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103084956, 47.0423766157 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3299,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 440.14,
+				"GLOBALID" : "473563B2-F084-4EFB-A1DE-C6E3C3118EED",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103233603, 47.0423511803 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3347,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 440.12,
+				"GLOBALID" : "790091BF-5576-432B-89D7-5BEA6D275A6D",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105382292, 47.0423627543 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3348,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 440.05,
+				"GLOBALID" : "7B7531C1-4BE8-4E3B-9687-7B85BCF9B205",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102309948, 47.0421267764 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3356,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 440.41,
+				"GLOBALID" : "6A16E1D4-80AD-4798-9F2D-B5072AADBF8F",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106372197, 47.0420862253 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3361,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 440.14,
+				"GLOBALID" : "FEDEC878-4341-40D0-B89D-E7C7612D8D0A",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106189575, 47.0419147465 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3362,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 440.42,
+				"GLOBALID" : "424ACB6F-0ABD-467A-AAA8-C4A678AFD015",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107825728, 47.0419710394 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3363,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 440.17,
+				"GLOBALID" : "DA956638-6820-4F3E-9234-8D1F5AEE5DD3",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107932931, 47.0417756731 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3364,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 440.5,
+				"GLOBALID" : "994462BB-A4D4-4B5C-AFBE-4C6C53180315",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109327403, 47.0416267175 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3365,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 440.59,
+				"GLOBALID" : "4382E0E7-613D-4FF8-BD50-173D1990EF48",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111919865, 47.0413506884 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3367,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 440.74,
+				"GLOBALID" : "C916115B-D539-43DA-948A-7C6BA1269F60",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3113083262, 47.041126615 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3368,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.14,
+				"GLOBALID" : "77EB2858-11A2-4580-B7BD-FA6E2AA2C574",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112250207, 47.0410338201 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3369,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 440.88,
+				"GLOBALID" : "5E32442A-9492-47B4-A9FB-EAE5B4D7CA82",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3114622092, 47.0409358095 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3463,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.13,
+				"GLOBALID" : "5B645949-7652-4D42-BF35-D684970D6FF3",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311419102, 47.040932674 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3464,
+				"BEMERKUNG" : "Allmendlibach",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.08,
+				"GLOBALID" : "44A64384-B87E-4042-A202-44392C57C5B6",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311395503, 47.0409388354 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3465,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.02,
+				"GLOBALID" : "C40F327F-3CF8-40AC-841C-B91D43253C41",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118440237, 47.0408408545 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3468,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.66,
+				"GLOBALID" : "281BBC53-6C86-45CB-B3DB-17101FB6BE11",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118511597, 47.0408378587 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3469,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.68,
+				"GLOBALID" : "05B0225E-41DB-4C50-BB67-744B932FB5E8",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3116621607, 47.0408542017 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3470,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.54,
+				"GLOBALID" : "8E504315-64AB-476E-8214-94C0FA25A949",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118182275, 47.0406877481 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3472,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.85,
+				"GLOBALID" : "7FCF4A2B-6982-4AEB-86CE-BF0480A572D7",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3113643863, 47.0412230532 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3475,
+				"BEMERKUNG" : "ehem. Gleisentwässerung",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 440.97,
+				"GLOBALID" : "3DD2F377-D6C9-460E-B081-1D168657F6E0",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3091813333, 47.0401064543 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5469,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 444.22,
+				"GLOBALID" : "0134B9A7-59AC-47BB-BB61-E6AB243F56AF",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3096875992, 47.040172681 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5472,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 443.65,
+				"GLOBALID" : "9CA9CFF3-EA8B-4F46-AB13-5EF91C8EEF7B",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100644992, 47.0402054973 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5473,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 443.39,
+				"GLOBALID" : "72A7B0D5-BAF7-4555-A0A8-6484AFC4EC9A",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310064418, 47.0401988772 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5474,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 443.52,
+				"GLOBALID" : "B57F42C2-DCB3-42BD-9EB8-995B06DD17B0",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104701802, 47.0401825732 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5476,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 443.42,
+				"GLOBALID" : "5AE39F62-E3F0-475B-979F-C8E82F359AFC",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104700109, 47.0401737768 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5477,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 444.49,
+				"GLOBALID" : "16547A23-F3C9-4EB2-844A-221B0CACE83E",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105685461, 47.040233029 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5478,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 443.43,
+				"GLOBALID" : "89379597-0F48-40FA-AD1C-BDA32D9123E3",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105654183, 47.0401757869 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5479,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 443.44,
+				"GLOBALID" : "99FE0C78-D33E-4919-B679-01754F5260F7",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105635414, 47.0401671744 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5480,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 443.54,
+				"GLOBALID" : "284B8B4E-C405-4726-BF38-1B50E0070ED6",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109740339, 47.0402079366 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5482,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 443.31,
+				"GLOBALID" : "E1A852DB-4788-4689-B36F-4D599C1C180B",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3115907663, 47.0403377598 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5483,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 443.02,
+				"GLOBALID" : "7982ABD8-2FFD-4E1A-ABB1-A6351E9CFF44",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3115966277, 47.0403316432 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5603,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 442.96,
+				"GLOBALID" : "134FC99C-8D72-4F01-ABFE-0745BA488336",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118384623, 47.0404490046 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5605,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 442.73,
+				"GLOBALID" : "CE5B279D-039D-44BE-B3DB-B994748E649F",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118937179, 47.0403908957 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5606,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 442.67,
+				"GLOBALID" : "01DBB118-A2FF-4D4D-B556-608F5051AF3C",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121002206, 47.0405679949 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5608,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 442.27,
+				"GLOBALID" : "B9753450-AE96-4341-B6A2-B15B231472DF",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121393136, 47.0405678684 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5609,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 442.16,
+				"GLOBALID" : "CAA29393-B598-429E-8B48-EF304EF683DB",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312175393, 47.0405135845 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5610,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 442.2,
+				"GLOBALID" : "25099F7B-ED71-4BAB-A39A-204055FF7638",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.31247702, 47.0407147511 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5611,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.85,
+				"GLOBALID" : "DE4B06BC-8655-4EF7-B94B-F20EF411C64C",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125225196, 47.040665226 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5613,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.82,
+				"GLOBALID" : "E7DD8EA8-5D1A-4A00-A43A-229E524AF14C",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125284769, 47.0406593425 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5614,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.92,
+				"GLOBALID" : "074FAE7A-6BC0-46D6-B005-AC95B289A20F",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128073227, 47.0407899225 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5616,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.51,
+				"GLOBALID" : "FA81DC43-D7F2-4452-BEAA-F13B8974A610",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128137982, 47.0407835403 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5617,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.65,
+				"GLOBALID" : "EAFF06C7-3D96-4D99-AE88-7D33F36E180D",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130683237, 47.0409736306 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5618,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.27,
+				"GLOBALID" : "D1E0C885-BD8E-40B1-93EB-F7400FDD8D62",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3131179357, 47.0409172823 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5619,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.38,
+				"GLOBALID" : "032EEEC1-17CE-43EF-BCC3-A7525F9B5ED7",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.313364533, 47.0410326071 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5621,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.06,
+				"GLOBALID" : "62677465-022E-43A1-B1CC-93FEF55C8BC6",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133724925, 47.0410268523 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5622,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 441.21,
+				"GLOBALID" : "7B991CD5-C79F-420A-B386-40121E020142",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109953139, 47.0401125747 ]
+			},
+			"properties" : {
+				"OBJECTID" : 8994,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 0,
+				"GLOBALID" : "AC6E0A5D-ACFB-4903-84EB-148D09C7CD32",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Ungenau",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103761064, 47.0421845597 ]
+			},
+			"properties" : {
+				"OBJECTID" : 8995,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 0,
+				"GLOBALID" : "5766196F-B757-44FC-BFD5-2E1EA9F4D13D",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103624501, 47.0421150916 ]
+			},
+			"properties" : {
+				"OBJECTID" : 8996,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 0,
+				"GLOBALID" : "A1F9ED30-3120-4C9B-8441-A4B3FEE97614",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109474683, 47.040768149 ]
+			},
+			"properties" : {
+				"OBJECTID" : 9032,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 0,
+				"GLOBALID" : "1035875A-EBB3-4868-BDCC-FD8488A92005",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109618065, 47.0407524597 ]
+			},
+			"properties" : {
+				"OBJECTID" : 9033,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 0,
+				"GLOBALID" : "D3754AF2-2A72-4A24-A312-2C5F5A625D59",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3113715085, 47.0416067053 ]
+			},
+			"properties" : {
+				"OBJECTID" : 50357,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 440.23,
+				"GLOBALID" : "F41B8FA2-8044-4CEE-978A-E9E1E55BCDBC",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3115200733, 47.0416462359 ]
+			},
+			"properties" : {
+				"OBJECTID" : 50358,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 440.08,
+				"GLOBALID" : "7C95C551-7A86-4935-8BF4-1118802CD96E",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3117988394, 47.0417652866 ]
+			},
+			"properties" : {
+				"OBJECTID" : 50359,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 439.65,
+				"GLOBALID" : "AE56EB04-4164-4F4B-AEE6-599D8412FBB7",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Ungenau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120828183, 47.0418932566 ]
+			},
+			"properties" : {
+				"OBJECTID" : 50360,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 439.29,
+				"GLOBALID" : "1940C757-D985-4EA6-8494-14707E8762FB",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123936469, 47.0420287217 ]
+			},
+			"properties" : {
+				"OBJECTID" : 50361,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 438.92,
+				"GLOBALID" : "5E4AC830-2A96-45B5-8DF5-0D752B9991EE",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312469492, 47.0420599438 ]
+			},
+			"properties" : {
+				"OBJECTID" : 188866,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 438.795,
+				"GLOBALID" : "7AB399B3-0D11-464A-833B-ACF2404BC399",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129232785, 47.0415667431 ]
+			},
+			"properties" : {
+				"OBJECTID" : 188869,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 439.523,
+				"GLOBALID" : "5FB2D368-9CD2-4E47-9EB3-BD008ADF2E6C",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103855555, 47.0424389187 ]
+			},
+			"properties" : {
+				"OBJECTID" : 190838,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 440.065,
+				"GLOBALID" : "A2BBD7E8-F443-4105-94AF-8E1F070A5B47",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3133833305, 47.0410765872 ]
+			},
+			"properties" : {
+				"OBJECTID" : 193648,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 441.094,
+				"GLOBALID" : "9E0A7DBC-03D2-48F3-8AFE-01F7CF9E8D3D",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109947692, 47.0403510066 ]
+			},
+			"properties" : {
+				"OBJECTID" : 200840,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 400,
+				"DIMENSION2" : 400,
+				"KOTE" : 442.991,
+				"GLOBALID" : "284BD8C4-87E8-4A73-B0B5-2F885E7D913E",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Vollguss",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110095714, 47.0401348294 ]
+			},
+			"properties" : {
+				"OBJECTID" : 202845,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 443.925,
+				"GLOBALID" : "921E7987-5929-49AD-AD09-1CF30E53AF42",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109683494, 47.0401367168 ]
+			},
+			"properties" : {
+				"OBJECTID" : 202846,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 443.87,
+				"GLOBALID" : "B0C7943C-9E65-4818-9D39-51B1D706CAD3",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109238833, 47.0401980717 ]
+			},
+			"properties" : {
+				"OBJECTID" : 202847,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 443.445,
+				"GLOBALID" : "726760BF-369B-4EEC-B0DB-DCB39721561A",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110264232, 47.040115127 ]
+			},
+			"properties" : {
+				"OBJECTID" : 202848,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 444.25,
+				"GLOBALID" : "7B0B6D75-D7A8-4791-BD8D-137F5FBD664D",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100699064, 47.040299415 ]
+			},
+			"properties" : {
+				"OBJECTID" : 202849,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 443.535,
+				"GLOBALID" : "20F12B82-BA9A-461E-94D8-51D186E45872",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Vollguss",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101315483, 47.0404229331 ]
+			},
+			"properties" : {
+				"OBJECTID" : 202850,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 442.943,
+				"GLOBALID" : "574E6D3A-224D-4937-9517-49EF187570CC",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Vollguss",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100767716, 47.0402303219 ]
+			},
+			"properties" : {
+				"OBJECTID" : 202851,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 443.634,
+				"GLOBALID" : "4F4CD358-8985-460C-88BB-F9422C6FFB11",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109222219, 47.0402715152 ]
+			},
+			"properties" : {
+				"OBJECTID" : 202852,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 443.247,
+				"GLOBALID" : "B27BBD2A-D5AF-458C-AAA3-30971CB6982B",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105526333, 47.0423397512 ]
+			},
+			"properties" : {
+				"OBJECTID" : 209249,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 440.159,
+				"GLOBALID" : "DCB296F6-3425-485C-B61C-8E0BE27FA6A6",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310433333, 47.0422653642 ]
+			},
+			"properties" : {
+				"OBJECTID" : 209250,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 440.281,
+				"GLOBALID" : "7ADB5C9F-290D-48A8-8425-888B0A4C0076",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104752623, 47.0422510217 ]
+			},
+			"properties" : {
+				"OBJECTID" : 209251,
+				"BEMERKUNG" : "Nönnisbach",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 440.262,
+				"GLOBALID" : "3874A8A1-0F2B-441F-A25C-B3EB5E03D45A",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104391891, 47.042236219 ]
+			},
+			"properties" : {
+				"OBJECTID" : 209252,
+				"BEMERKUNG" : "Nönnisbach/Allmendlibach",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 440.32,
+				"GLOBALID" : "B54169D7-A7D9-4DBC-B038-D0F46661EA76",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103857022, 47.0422333238 ]
+			},
+			"properties" : {
+				"OBJECTID" : 209253,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 440.383,
+				"GLOBALID" : "B8BFD0EC-930A-4653-B2CE-073617A7333A",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105196604, 47.0421472895 ]
+			},
+			"properties" : {
+				"OBJECTID" : 209254,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 440.304,
+				"GLOBALID" : "8500876C-54BD-42BE-AC63-88FA354F481A",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105261912, 47.0421135155 ]
+			},
+			"properties" : {
+				"OBJECTID" : 209255,
+				"BEMERKUNG" : "Allmendlibach",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 440.357,
+				"GLOBALID" : "0529A504-2767-4C7B-BEBE-F7226CD2A3A8",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104946119, 47.042047287 ]
+			},
+			"properties" : {
+				"OBJECTID" : 209256,
+				"BEMERKUNG" : "Allmendlibach",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 440.421,
+				"GLOBALID" : "1D90150A-8867-491B-9530-CE0BACAB5C36",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103133123, 47.0421862958 ]
+			},
+			"properties" : {
+				"OBJECTID" : 209257,
+				"BEMERKUNG" : "Nönnisbach",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 440.425,
+				"GLOBALID" : "123FD7EF-5885-4818-AD32-346BABF8ED1A",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102372978, 47.0420222629 ]
+			},
+			"properties" : {
+				"OBJECTID" : 209258,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 440.676,
+				"GLOBALID" : "EA3A03CC-B853-44C9-B747-F0D198F31B2A",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103657313, 47.0420457199 ]
+			},
+			"properties" : {
+				"OBJECTID" : 209259,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 440.619,
+				"GLOBALID" : "082E27BC-64F3-4024-9C98-544C25E4D87C",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104681286, 47.0409560282 ]
+			},
+			"properties" : {
+				"OBJECTID" : 209649,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 700,
+				"DIMENSION2" : 700,
+				"KOTE" : 441.772,
+				"GLOBALID" : "EE9CBB47-796B-4079-9266-BE1620050309",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Vollguss",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104270569, 47.0409955518 ]
+			},
+			"properties" : {
+				"OBJECTID" : 209650,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 800,
+				"DIMENSION2" : 800,
+				"KOTE" : 441.915,
+				"GLOBALID" : "142D14F9-488B-4C69-9A7E-2A2641D529FF",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109596121, 47.0408319703 ]
+			},
+			"properties" : {
+				"OBJECTID" : 209651,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 700,
+				"DIMENSION2" : 700,
+				"KOTE" : 441.1,
+				"GLOBALID" : "C9890786-E2B2-4FD2-AAF4-8CB8388B6C87",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Vollguss",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109604748, 47.0406616505 ]
+			},
+			"properties" : {
+				"OBJECTID" : 209652,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 442.617,
+				"GLOBALID" : "03127D43-6999-48F2-8204-41926385160C",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109929414, 47.040748472 ]
+			},
+			"properties" : {
+				"OBJECTID" : 209653,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 441.756,
+				"GLOBALID" : "97C18F2B-D504-40EA-8D29-154BA0667882",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3093279809, 47.0401368537 ]
+			},
+			"properties" : {
+				"OBJECTID" : 211259,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 444.326,
+				"GLOBALID" : "922AAE17-1174-4BF2-99EB-EE9DCAE9E6FA",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3092809472, 47.040038466 ]
+			},
+			"properties" : {
+				"OBJECTID" : 211260,
+				"BEMERKUNG" : "Deckel muss geöffnet werden",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 447.787,
+				"GLOBALID" : "48B98B30-235A-4F4F-8316-65BFE0B1BB31",
+				"DECKELFORM" : "",
+				"HOEHENBEST" : "",
+				"LAGEBESTIM" : "",
+				"MATERIAL" : "",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3114404507, 47.0409952558 ]
+			},
+			"properties" : {
+				"OBJECTID" : 213250,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 441.171,
+				"GLOBALID" : "CE97F82F-75D8-448C-9C69-47828D7194C6",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3115923335, 47.040988101 ]
+			},
+			"properties" : {
+				"OBJECTID" : 214849,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 441.349,
+				"GLOBALID" : "A344C40F-60AA-4297-B6AF-0F4F34CECD5B",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100513353, 47.0416424961 ]
+			},
+			"properties" : {
+				"OBJECTID" : 214852,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 441.256,
+				"GLOBALID" : "923A5EF1-0C16-4F31-8153-608620E6CFDA",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3114194332, 47.0409328064 ]
+			},
+			"properties" : {
+				"OBJECTID" : 214853,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 441.08,
+				"GLOBALID" : "85D24234-083B-48CA-BA52-CE6211F95A03",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102340083, 47.0414325742 ]
+			},
+			"properties" : {
+				"OBJECTID" : 214854,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 442.037,
+				"GLOBALID" : "61067C41-CBEB-458C-ABC7-83582C958AB6",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Vollguss",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3097958168, 47.0411127969 ]
+			},
+			"properties" : {
+				"OBJECTID" : 214855,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 442.001,
+				"GLOBALID" : "72E403BB-63D8-4119-B353-3D702666F026",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108401986, 47.0416797298 ]
+			},
+			"properties" : {
+				"OBJECTID" : 214856,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 440.661,
+				"GLOBALID" : "BAF45BCC-C096-46B6-8913-D71845C5C4EE",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111316562, 47.0414795947 ]
+			},
+			"properties" : {
+				"OBJECTID" : 214857,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 440.682,
+				"GLOBALID" : "2FE8BACC-0D97-4213-9243-F2796E89E3B9",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112009615, 47.041294083 ]
+			},
+			"properties" : {
+				"OBJECTID" : 214858,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 440.879,
+				"GLOBALID" : "9E19138F-BF47-47B5-A4E2-479E9E6CF062",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111937984, 47.0415122712 ]
+			},
+			"properties" : {
+				"OBJECTID" : 214859,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 440.547,
+				"GLOBALID" : "D73799F7-5B5C-46C5-97A1-1D107D4A8FA7",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310298273, 47.0407211481 ]
+			},
+			"properties" : {
+				"OBJECTID" : 215653,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 800,
+				"DIMENSION2" : 800,
+				"KOTE" : 442.347,
+				"GLOBALID" : "42897524-FDC9-4A68-96A7-B58328F778F5",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Vollguss",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.31026794, 47.0407056542 ]
+			},
+			"properties" : {
+				"OBJECTID" : 216049,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 800,
+				"DIMENSION2" : 800,
+				"KOTE" : 442.45,
+				"GLOBALID" : "FF5450B2-CC30-44B4-B0A8-08053735D60E",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120517588, 47.0404970017 ]
+			},
+			"properties" : {
+				"OBJECTID" : 241249,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 442.383,
+				"GLOBALID" : "9C68CBFE-8756-4D09-8FB8-EC520A8E8B7E",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3116554675, 47.0403239724 ]
+			},
+			"properties" : {
+				"OBJECTID" : 241250,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 443.049,
+				"GLOBALID" : "44655405-0AAE-4785-AF2C-D4FB7A30CEF4",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128258487, 47.0408326184 ]
+			},
+			"properties" : {
+				"OBJECTID" : 241251,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 441.58,
+				"GLOBALID" : "6B9A4C57-854B-4C07-81A5-66192244B5B9",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124997136, 47.0406893638 ]
+			},
+			"properties" : {
+				"OBJECTID" : 241252,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 441.83,
+				"GLOBALID" : "45D8E982-0D78-475A-AA7B-5144783F4E4B",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105155622, 47.0422352073 ]
+			},
+			"properties" : {
+				"OBJECTID" : 296849,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 440.275,
+				"GLOBALID" : "FE9F6D96-8BC0-49CB-8AA6-988A294D0B6F",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104902502, 47.0422266918 ]
+			},
+			"properties" : {
+				"OBJECTID" : 296850,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 0,
+				"DIMENSION2" : 0,
+				"KOTE" : 440.194,
+				"GLOBALID" : "DA65BBC6-9BCC-46BA-A96E-23B475BD4E89",
+				"DECKELFORM" : "Eckig",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussrost",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120274658, 47.0404338397 ]
+			},
+			"properties" : {
+				"OBJECTID" : 365249,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 442.543,
+				"GLOBALID" : "4A1FDF55-30BB-4A9A-B493-F8A4D864A88F",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312103186, 47.0404672399 ]
+			},
+			"properties" : {
+				"OBJECTID" : 365250,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 442.448,
+				"GLOBALID" : "F57CCFF1-28BB-4240-9D2B-F1F06B74A006",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123104799, 47.0405587219 ]
+			},
+			"properties" : {
+				"OBJECTID" : 365251,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 442.18,
+				"GLOBALID" : "F5B2DF2B-C49E-44F3-805C-6B5578649113",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123067258, 47.0405479828 ]
+			},
+			"properties" : {
+				"OBJECTID" : 365252,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 442.162,
+				"GLOBALID" : "0961E56C-4007-4FC5-B97C-C591B4C7FD24",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Vollguss",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110420941, 47.0414252943 ]
+			},
+			"properties" : {
+				"OBJECTID" : 457669,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 441.018,
+				"GLOBALID" : "6E941CCF-94F5-47A6-A542-60D6BA1E2657",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Vollguss",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110866621, 47.0414656427 ]
+			},
+			"properties" : {
+				"OBJECTID" : 457670,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 400,
+				"DIMENSION2" : 700,
+				"KOTE" : 440.695,
+				"GLOBALID" : "735B4C63-B6BD-40A6-A49B-2F0A5D1527A3",
+				"DECKELFORM" : "Eckig",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussrost",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103897846, 47.0410227136 ]
+			},
+			"properties" : {
+				"OBJECTID" : 473714,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "15E1D9F9-4BF0-49BD-8DE5-7337380EC9B3",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104950113, 47.041230486 ]
+			},
+			"properties" : {
+				"OBJECTID" : 473715,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "5338B9DC-7BB6-4F45-9FF2-B75BBF5514DB",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103712096, 47.0412603558 ]
+			},
+			"properties" : {
+				"OBJECTID" : 473716,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "EA553879-5072-4CF0-AD0B-58438BA6A8F2",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104085053, 47.0413382891 ]
+			},
+			"properties" : {
+				"OBJECTID" : 473717,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "22952C71-D016-4E87-AE0C-C8328AE25F1B",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3096952988, 47.0403446269 ]
+			},
+			"properties" : {
+				"OBJECTID" : 473719,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "86BE5717-4C07-49DF-AFF2-69F0BA7543D1",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3097157883, 47.0403341625 ]
+			},
+			"properties" : {
+				"OBJECTID" : 473720,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "165447C5-1F7E-4784-9278-61D15D3BDF1F",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3092809472, 47.040038466 ]
+			},
+			"properties" : {
+				"OBJECTID" : 473741,
+				"BEMERKUNG" : "Deckel kann nicht geöffnet werden",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "8E1898B2-81E2-4640-A177-CFE4ED942CCF",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3098747991, 47.0420205434 ]
+			},
+			"properties" : {
+				"OBJECTID" : 473922,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "FF3225A6-03F9-4EB0-95EA-179845EEC7C7",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.312609401, 47.0421625439 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483489,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "EF36C988-3D71-49CE-97DA-EE892D285FDE",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124592604, 47.0421702175 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483496,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "A0E1D704-8299-44C8-B06E-BBA14A8C714D",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3115578659, 47.041836277 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483515,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "7414A979-F4D5-4F57-AFA7-4F49CDBEB18B",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111918296, 47.0418532363 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483519,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "35C8260D-2CFB-48DA-B914-57A9425BDCC3",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311705353, 47.0416655889 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483520,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "6B246729-ADA0-4A69-AA10-4493CD6F6538",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311597129, 47.0416184834 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483521,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "02D17E55-84A6-4939-A59F-6FC21F643B29",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3113417192, 47.0416295376 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483523,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "6CF544A4-434A-42A4-AC47-A5D7B640D00B",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3131101256, 47.0410823746 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483528,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "D46592AE-46B8-4145-8D80-1F73CAFDCA29",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3127525803, 47.0408366935 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483542,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "43081688-9B4D-48E5-8AAB-CD93C18D4A24",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3126025845, 47.040893419 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483543,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "72AC45B4-D9B8-448D-9CAD-90759BD2C817",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107177318, 47.040140213 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483854,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "4A93B494-E6C4-4C6F-99FA-2DE36194AC08",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3102845362, 47.040163131 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483861,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "FD05DFF6-5FED-4F97-B882-F77EDC07E57E",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.309736418, 47.0401710512 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483863,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "9123E777-F3CF-4129-B256-52E145F31D3A",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3098195469, 47.0401543363 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483865,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "44CE22F8-54CB-4DD2-8677-17CF9E55C3C7",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.309870593, 47.0401196938 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483866,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "04D233C7-6469-4CFA-8A9B-B422E7DA9821",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3097294856, 47.0401938806 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483867,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "395035DE-99BB-404C-8C3C-AA22EBE371EE",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104208728, 47.0401727646 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483868,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "44F23D49-7349-447D-AA73-09B5A741CD38",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101440305, 47.0402759587 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483869,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "737582E4-6FFD-414B-982A-69B7361B5147",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310004857, 47.0402861185 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483870,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "C9E22EC0-F9B5-413E-A3F5-DCF4778DAD49",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100227132, 47.0417177904 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483874,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "53B6C396-9D35-4444-8C85-122FC478B7CE",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101292108, 47.041936564 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483875,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "BA99E353-57F7-41E0-8034-D03D2F8AEAFC",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108427043, 47.0412113742 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483876,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "41FDB0CF-21F4-45FD-9760-02339EE0714A",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.31091504, 47.041132896 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483877,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "CE938393-37CF-4558-903E-36A9C8CF5702",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108436781, 47.0411020976 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483878,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "2B8946EB-D665-4F8E-AE23-BC3EFE65512A",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109786966, 47.0410645048 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483879,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "E8C53FA5-D793-4C02-A533-8E4927AD20E6",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109067199, 47.041033927 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483880,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "BE6EB42D-68F1-4895-AC97-57FF58CDA30B",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3110414595, 47.0409978025 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483881,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "66AFB170-07C8-4C65-864C-0D7FCD37BF70",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108214409, 47.0408803907 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483883,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "ED4BF684-EAE0-40E7-BE4F-A7AB681E5FF3",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107778494, 47.0409041193 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483885,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "52AB553C-304D-4CB9-9BCD-293F43596A28",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108648719, 47.0408840278 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483886,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "EECE1C2D-4128-465F-ADCA-98334C0B000E",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109259242, 47.0408432368 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483887,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "ED6743B4-69B5-4B3B-8017-42D3D0F2C0EE",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109476648, 47.0408652187 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483888,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "98A03310-1E27-469C-A4E9-6A5A5696338F",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106787536, 47.0409149021 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483889,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "5D4959F5-2682-4BFF-A8F6-6E5166A9B709",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105115692, 47.0409472965 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483890,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "BE820BA6-B37D-4CCB-B1C4-2DBAC3FC7466",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105037105, 47.0409333591 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483891,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "13D17C0A-C76E-48D9-94AD-9566DFC00487",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104697371, 47.0408914368 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483899,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "D072BB88-DBE6-4D87-9948-88CD85744E6D",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112099939, 47.0414465254 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483900,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "A8CC5B63-52A3-4D36-86A1-7768570DAC68",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.311379048, 47.0412660846 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483901,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "93EF2C91-7CB8-4B3F-B1B0-EBDA016BB5B3",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3115323185, 47.0411039526 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483902,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "087926DF-E804-4E8E-98FC-00F8923A472B",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3115049164, 47.0410162831 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483904,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "4FC17FE0-DFCA-4200-881D-B51719899BC2",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3118134059, 47.040553193 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483905,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "DD2F8EA2-58CD-4DFC-A997-94B973CC6F2A",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105852403, 47.0423007776 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483908,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "0CA57C0B-03E3-4481-8855-BA45AC6073AD",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100588136, 47.0406850765 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484229,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "303B2815-DF32-4524-9032-6348E5C43DB5",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3095390022, 47.0404834809 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484230,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "2595B390-40C6-4367-996A-687D1C8998E8",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101143857, 47.0416460476 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484231,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "967CF7C2-AEAB-4BDD-8F0F-9551C035077C",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100868466, 47.0416057226 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484232,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "22424AB5-804C-4ECA-A944-841E994D1D14",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105332514, 47.0420467237 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484238,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "37A7D086-B82A-432F-A925-00DB0415AA89",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105346429, 47.0420011686 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484239,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "3E199639-3E9C-46A4-9F62-75AF73B492C5",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104663598, 47.0419720197 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484240,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "1D3EB308-C6F3-4663-A259-DD0E56D9D2D3",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104881767, 47.0418577722 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484241,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "D9A50308-1716-491D-B0BC-FD994E1A8BD9",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104848108, 47.0418757619 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484242,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "4627A0ED-448D-427C-8AEC-9CE6434BC4C8",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103502835, 47.041493419 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484243,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "4843D294-DEE0-4CAF-A4C5-90E1394B981F",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100386363, 47.0414707051 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484244,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "57F5E2CA-B3BE-4354-AD11-4D1DF726691E",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3101981608, 47.0413903152 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484245,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "16F606AB-06E8-47A5-B06B-A39123A7D3D8",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.310744537, 47.0411862217 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484246,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "4D3E25CC-8ABE-48F3-A638-C4AB52D5D2AE",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106715394, 47.04120537 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484247,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "E645A36B-00C4-45CA-B622-D4DAC4C2F9C9",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3105808356, 47.0412256962 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484248,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "27A1D1C0-6F3C-42AE-A702-C50A35AD0D6F",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107724285, 47.0412854469 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484249,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "0FDE532A-A287-4450-83E3-A86AF8FB3EA5",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109721448, 47.0407368008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484253,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "EF18FCC9-D271-4C75-A912-54D383DCB814",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111571876, 47.0408348498 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484254,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "53BFD820-9E7A-4898-8B69-74613B306226",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111204254, 47.0408545056 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484255,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "5E7E53AF-5B98-4B9B-B844-C12FD1058277",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112401454, 47.0409079111 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484256,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "6D5227FA-F025-4112-BE2E-7BAED655A3E4",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3113616223, 47.0409617078 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484257,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "3425A5FE-6706-4FD7-8DB3-173D00B1B36B",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107047745, 47.0417637157 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484258,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "4AE77DF9-3453-459F-934C-ACADBCA8B318",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108336623, 47.0416265347 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484259,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "729A0987-8FE1-4CEC-94E9-90C6FED748AE",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3107848598, 47.0416786299 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484260,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "465B0D76-689F-4CCC-A9A4-129FA684D482",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109105981, 47.0415452509 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484261,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "24494FBA-2AB5-4794-8C46-F4322CF43E26",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109576469, 47.0414945632 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484262,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "35E552B8-259E-4296-A944-EBE609578DF0",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111802302, 47.0412662104 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484263,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "382A6A88-F50B-42C8-AF46-BE5E6D4E1AEC",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112237218, 47.0412201553 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484264,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "2DEBB894-1D3C-45B0-87B1-69921149C198",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3112661737, 47.0411748998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484265,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "D56B0E84-A2FA-468B-86FE-ACB19EE2A771",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111165487, 47.041545899 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484266,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "428F854E-A794-498F-92BD-32DC31575426",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3111446288, 47.0415668522 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484267,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "34895783-EB26-4506-9201-EBED7E91E6C9",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3093063159, 47.0403278771 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484269,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "9E5AC76A-2139-4B2A-8590-89FBE3AFF0E4",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3109697292, 47.0401123193 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484628,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "28FC9332-3FCE-4FE8-BC70-88321967BE95",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3099617864, 47.0404699371 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484630,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "D766A8D7-BC94-4A8D-BF84-1AF5B6BDC557",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100499446, 47.040298613 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484631,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "9BA49D76-F60C-4FA6-AD27-672D876AA26A",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.309992571, 47.0403017741 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484632,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "D5625FC3-E00D-4AEE-86A2-9ADC6810474B",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.309936912, 47.0403149073 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484634,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "672E1288-5C8B-45D8-AC2F-A4C5627159B7",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3098149468, 47.0403264836 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484635,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "6399246E-E757-4418-901C-6CAE8865D372",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3095865443, 47.0403950716 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484636,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "A64E1D73-4003-4664-9459-524CDFEAE064",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3097473914, 47.0403363246 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484637,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "5E1CFF5A-134D-4E01-999D-F4C9BA7E361E",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3095726599, 47.040411171 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484638,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "7C72BB95-0D39-46A4-8A6E-B949D081AB90",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3099266543, 47.0407374713 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484639,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "10B2DC1F-486E-4FC5-81CF-D34A75B31F60",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100629753, 47.0407063555 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484640,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "578340B1-FD40-4DF5-9AC0-88BF6DA28595",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3097734517, 47.0406592568 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484641,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "9C0A8240-DE77-498C-9B09-DBA044D656E5",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3099040143, 47.0406309016 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484642,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "8A6929DF-0123-44F9-901E-F98CB55789C8",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3096588226, 47.0407231675 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485319,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "8929DD80-C844-4A20-AEA0-F9ADC46B5BD6",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.309715519, 47.0410835228 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485320,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "E6935C24-CFEF-439C-A28A-FDB7C3930A9D",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.309820982, 47.0410693552 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485321,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "DFE64C81-36B7-45D4-AF3B-3039AEF91B0F",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3098162939, 47.0412887658 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485322,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "A461DBDB-352A-4FC5-8F2D-CB87FA2C6BCF",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.30991708, 47.0412685706 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485323,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "D4C5B839-B3B4-4414-9285-1AE690E493B5",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3099913201, 47.0414198974 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485324,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "173AE0A3-0F64-4E95-BF40-A6AB35D9ADF0",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3099209471, 47.041506708 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485325,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "1FC7DAF0-6B41-4059-B8F6-65D3A8919795",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3100213942, 47.041485058 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485326,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "EB39D2E6-6FE4-4887-8B79-1A1A78E18EAB",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3125198209, 47.0418826898 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485327,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "6CF333EA-0493-4CD8-A4BD-58E60954D262",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3126103121, 47.0417903181 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485329,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "AADFDE13-F770-430A-80FA-C2DB1864EA62",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129752317, 47.0417016589 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485335,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "C9867924-BB6F-4308-ACD8-BEE07C74AEDD",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130915936, 47.041584316 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485336,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "E84789F6-25F4-425F-9978-50C2A2F68F67",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3131264777, 47.0412823207 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485337,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "C124D344-4E33-46B3-A03B-E370A1F93045",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130163523, 47.0412235368 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485338,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "541CCBFE-D50A-4295-A6D8-F3923F68BF93",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3128876561, 47.0413203917 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485339,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "8E2D2B10-26F6-4F53-9F53-AE5BECFBAF2E",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3129678374, 47.0412357984 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485341,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "4ECD0401-C288-4660-AB20-DD34F3B7533E",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3130272704, 47.0411724307 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485342,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "4C3713E5-B1E1-43F2-9A0D-FF0D991B9EB6",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3108331251, 47.0401048474 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485667,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "B6FE89E9-5A3B-4453-BD2D-20F5C4C30F4C",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121486022, 47.0420630603 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485691,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "F61F67C3-A679-423C-90C9-22DC96A7897D",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3124937487, 47.0421684707 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485692,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "3AB50EFE-91F6-4103-9AC3-0F63E8F8A56F",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123158107, 47.0420303755 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485693,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 438.827,
+				"GLOBALID" : "EFEB2C45-6091-4FE9-969F-096D8AE40B6A",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3121930336, 47.0410062639 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485694,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "CD5907A6-60BE-4B81-B3A5-EB83F266D39F",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123837908, 47.0410825072 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485695,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "7DBDB5E7-7CFB-4AA9-8606-9853B9C50880",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3103371876, 47.040809666 ]
+			},
+			"properties" : {
+				"OBJECTID" : 486229,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "D535465B-CDF0-43EA-8664-F7DF39802913",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3126733994, 47.0406716877 ]
+			},
+			"properties" : {
+				"OBJECTID" : 487076,
+				"BEMERKUNG" : "DW",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "972627A3-EAA3-4017-A07F-43CA43216E71",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3117217336, 47.0417705597 ]
+			},
+			"properties" : {
+				"OBJECTID" : 488120,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 439.635,
+				"GLOBALID" : "0C9C1120-A51F-4538-A9E4-C2CE6FF3A6FA",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3119715884, 47.0418846573 ]
+			},
+			"properties" : {
+				"OBJECTID" : 488348,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 439.29,
+				"GLOBALID" : "E9B27FB9-1397-4940-9FB1-A15418175BF3",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3115027618, 47.0416741009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 488349,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 439.99,
+				"GLOBALID" : "68890CE3-4C35-4D97-AB44-394C7E532708",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120278488, 47.04181786 ]
+			},
+			"properties" : {
+				"OBJECTID" : 488350,
+				"BEMERKUNG" : "Einlauf in Randstein",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 439.47,
+				"GLOBALID" : "6A504605-54D4-47B3-928B-64B665AE3C02",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3123729205, 47.0419696976 ]
+			},
+			"properties" : {
+				"OBJECTID" : 488351,
+				"BEMERKUNG" : "Einlauf in Randstein",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 438.99,
+				"GLOBALID" : "BBDDD3B8-A5D9-428E-9247-50FC02707FB6",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3106630779, 47.0420951504 ]
+			},
+			"properties" : {
+				"OBJECTID" : 490822,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "536DACA8-66E2-48A1-9D94-5C4C843CF3E1",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3104663748, 47.0409007368 ]
+			},
+			"properties" : {
+				"OBJECTID" : 490999,
+				"BEMERKUNG" : "Sammler",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "47E598EA-B348-41C7-9938-1505F16E4642",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3120231074, 47.040659203 ]
+			},
+			"properties" : {
+				"OBJECTID" : 491001,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "8651E37B-81DC-4C94-BA6B-793A3D40E24D",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3122199937, 47.0409858997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 491003,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "C548135F-96A6-4DD2-9BA0-45B0A2418FC1",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3094211221, 47.0403697714 ]
+			},
+			"properties" : {
+				"OBJECTID" : 491048,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "504F2189-3219-4620-A8CD-1AF0EB48304E",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3095906856, 47.0407247729 ]
+			},
+			"properties" : {
+				"OBJECTID" : 491050,
+				"BEMERKUNG" : "tot",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 0,
+				"GLOBALID" : "D1F8E331-0B33-4DE9-8310-207C4C0CAB90",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Unbekannt",
+				"LAGEBESTIM" : "Unbekannt",
+				"MATERIAL" : "Unbekannt",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3093808265, 47.0402852398 ]
+			},
+			"properties" : {
+				"OBJECTID" : 497049,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 0,
+				"GLOBALID" : "4CE42461-0FEC-44E0-A810-852989DBFDB8",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3090252181, 47.0401956956 ]
+			},
+			"properties" : {
+				"OBJECTID" : 512747,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 444.85,
+				"GLOBALID" : "C8334D4C-665B-4619-8D59-B171F3E83C3E",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.309121389, 47.0401669003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 512748,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 444.783,
+				"GLOBALID" : "29592F8D-CEF2-406B-B52E-87BF6C42A80B",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Vollguss",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3092379597, 47.0401594316 ]
+			},
+			"properties" : {
+				"OBJECTID" : 512749,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 444.172,
+				"GLOBALID" : "BB653F12-2D9F-40BC-B19A-007796D55880",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3092473835, 47.0401636151 ]
+			},
+			"properties" : {
+				"OBJECTID" : 512750,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 444.15,
+				"GLOBALID" : "4BFAF966-EA91-49D1-8BD7-F53F837BF0E8",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3093034838, 47.0401841673 ]
+			},
+			"properties" : {
+				"OBJECTID" : 512751,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 444.079,
+				"GLOBALID" : "8A0949AC-6DE9-4BCC-8E8A-39B1D488F79D",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3093725945, 47.0402936861 ]
+			},
+			"properties" : {
+				"OBJECTID" : 512752,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 100,
+				"DIMENSION2" : 100,
+				"KOTE" : 443.707,
+				"GLOBALID" : "1C40D7DA-DA01-4D30-9EB0-CAE5E702FE32",
+				"DECKELFORM" : "Eckig",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussrost",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3093649083, 47.0403033246 ]
+			},
+			"properties" : {
+				"OBJECTID" : 512753,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 443.825,
+				"GLOBALID" : "0FE83604-20F4-430F-BC02-4616725C3B15",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3093635018, 47.0403163879 ]
+			},
+			"properties" : {
+				"OBJECTID" : 512754,
+				"BEMERKUNG" : "",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 443.785,
+				"GLOBALID" : "0A1CBC23-44C4-443C-94B8-E60D171E5C6C",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3093208209, 47.0403119079 ]
+			},
+			"properties" : {
+				"OBJECTID" : 512755,
+				"BEMERKUNG" : "Deckel klemmt (Sept. 2017)",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 444.924,
+				"GLOBALID" : "3924884C-D969-476F-83EF-32F952B8A7EC",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.3092785016, 47.0402275355 ]
+			},
+			"properties" : {
+				"OBJECTID" : 512756,
+				"BEMERKUNG" : "Deckel klemmt (Sept. 2017)",
+				"DIMENSION1" : 600,
+				"DIMENSION2" : 600,
+				"KOTE" : 444.921,
+				"GLOBALID" : "BEC248E5-BB15-4955-93E4-B6534E77982D",
+				"DECKELFORM" : "Rund",
+				"HOEHENBEST" : "Genau",
+				"LAGEBESTIM" : "Genau",
+				"MATERIAL" : "Gussbeton",
+				"_clipped" : "no"
+			}
+		}
+	]
+}
